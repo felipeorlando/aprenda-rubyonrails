@@ -1,14 +1,17 @@
 # Recursos Ruby e Rails
 :books: Central de conhecimento sobre Ruby e Ruby on Rails
 
-## :book: Livros
+### :book: Livros
 ...
 
-## :mortar_board: Cursos
+### :mortar_board: Cursos
 ...
 
-## :newspaper: Blogs
+### :newspaper: Blogs
 ...
 
-## :bulb: Eventos
+### :video_camera: Palestras (vídeos)
+...
+
+### :bulb: Eventos Ativos
 ...
