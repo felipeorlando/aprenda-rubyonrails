@@ -16,8 +16,11 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [Surviving APIs with Rails](https://www.codeschool.com/courses/surviving-apis-with-rails) | Code School | :yellow_heart: | Rails | :moneybag:
 [Rails 4 Patterns](https://www.codeschool.com/courses/rails-4-patterns) | Code School | :yellow_heart: | Rails | :moneybag:
 [Intermediate Ruby on Rails]() | Upcase | :yellow_heart: | Rails | :moneybag:
+[Refactoring](https://upcase.com/refactoring) | Upcase | :heart: | Rails | :moneybag:
 [Rails Testing for Zombies](https://www.codeschool.com/courses/rails-testing-for-zombies) | Code School | :green_heart: | TDD | :moneybag:
 [Testing with RSpec](https://www.codeschool.com/courses/testing-with-rspec) | Code School | :green_heart: | TDD | :moneybag:
+[Testing Fundamentals](https://upcase.com/testing-fundamentals) | Upcase | :green_heart: | TDD | :moneybag:
+[Test Doubles](https://upcase.com/test-doubles) | Upcase | :yellow_heart: | TDD | :moneybag:
 [Rails Development](https://teamtreehouse.com/tracks/rails-development) | Treehouse | :green_heart: | Full-Stack | :moneybag:
 [Começando com Ruby on Rails (em pt-BR)](http://howtocode.com.br/cursos/comecando-com-ruby-on-rails) | How to Code | :yellow_heart: | Full-Stack | :moneybag: 
 [Trilha RoR (em pt-BR)](https://www.alura.com.br/cursos-online-ruby-e-rails) | Alura | :yellow_heart: | Full-Stack | :moneybag:
