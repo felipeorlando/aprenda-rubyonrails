@@ -15,10 +15,12 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [Rails 4: Zombie Outlaws](https://www.codeschool.com/courses/rails-4-zombie-outlaws) | Code School | :yellow_heart: | Rails | :moneybag:
 [Surviving APIs with Rails](https://www.codeschool.com/courses/surviving-apis-with-rails) | Code School | :yellow_heart: | Rails | :moneybag:
 [Rails 4 Patterns](https://www.codeschool.com/courses/rails-4-patterns) | Code School | :yellow_heart: | Rails | :moneybag:
+[Intermediate Ruby on Rails]() | Upcase | :yellow_heart: | Rails | :moneybag:
 [Rails Testing for Zombies](https://www.codeschool.com/courses/rails-testing-for-zombies) | Code School | :green_heart: | TDD | :moneybag:
 [Testing with RSpec](https://www.codeschool.com/courses/testing-with-rspec) | Code School | :green_heart: | TDD | :moneybag:
 [Rails Development](https://teamtreehouse.com/tracks/rails-development) | Treehouse | :green_heart: | Full-Stack | :moneybag:
 [Começando com Ruby on Rails (em pt-BR)](http://howtocode.com.br/cursos/comecando-com-ruby-on-rails) | How to Code | :yellow_heart: | Full-Stack | :moneybag: 
+[Trilha RoR (em pt-BR)](https://www.alura.com.br/cursos-online-ruby-e-rails) | Alura | :yellow_heart: | Full-Stack | :moneybag:
 
 **Legendas:**
 * :green_heart:: Básico
