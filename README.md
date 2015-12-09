@@ -31,7 +31,7 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 * :heart:: Avançado
 
 ## :book: Livros
-Título | Assunto | Formato | Preço | Linguagem
+Título | Assunto | Formato | Preço | Idioma
 :-- | :--: | :--: | :--: | :--:
 [Introdução à Computação: Da Lógica aos jogos com Ruby](http://www.casadocodigo.com.br/products/livro-aprendendo-computacao-ruby) | Ruby | Ebook e Físico | :moneybag: | pt-BR
 [Conhecendo Ruby](https://leanpub.com/conhecendo-ruby) | Ruby | Ebook | :free: | pt-BR
@@ -44,7 +44,13 @@ Título | Assunto | Formato | Preço | Linguagem
 [RSpec: Crie especificações executáveis em Ruby](http://www.casadocodigo.com.br/products/livro-rspec) | Testes | Ebook e Físico | :moneybag: | pt-BR
 
 ## :newspaper: Blogs
-...
+Blog | Principal(is) Autor(es) | Idioma
+:-- | :-- | :--:
+[Nando Vieira](http://nandovieira.com.br) | Nando Vieira | pt-BR
+[Blog Plataformatec](http://blog.plataformatec.com.br) | José Valim e Hugo Baraúna | pt-BR
+[Marcos Brizeno](https://brizeno.wordpress.com) | Marcos Brizeno | pt-BR
+[Akita on Rails](http://akitaonrails.com) | Fabio Akita | pt-BR
+[Treehouse Blog](http://blog.teamtreehouse.com) | Treehouse Team | En
 
 ## :video_camera: Palestras (vídeos)
 ...
