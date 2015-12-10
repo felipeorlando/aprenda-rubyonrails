@@ -42,6 +42,7 @@ Título | Assunto | Formato | Preço | Idioma
 [Test Driven Development: Teste e design no mundo real com Ruby](http://www.casadocodigo.com.br/products/livro-Testes-ruby) | Testes | Ebook e Físico | :moneybag: | pt-BR
 [Cucumber e RSpec: Construa aplicações Ruby com testes e especificações](http://www.casadocodigo.com.br/products/livro-cucumber-rspec-tdd-bdd) | Testes | Ebook e Físico | :moneybag: | pt-BR
 [RSpec: Crie especificações executáveis em Ruby](http://www.casadocodigo.com.br/products/livro-rspec) | Testes | Ebook e Físico | :moneybag: | pt-BR
+[Eloquent Ruby](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104) | Ruby | Ebook e Físico | :moneybag: | En
 
 ## :newspaper: Blogs
 Blog | Principal(is) Autor(es) | Idioma
