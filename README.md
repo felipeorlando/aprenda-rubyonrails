@@ -56,4 +56,11 @@ Blog | Principal(is) Autor(es) | Idioma
 ...
 
 ## :bulb: Eventos Ativos
-...
+Nome do Evento | Região Realizada
+:-- | :--
+[Rails Girls](http://railsgirls.com) | São Paulo, Porto Alegre, Rio de Janeiro, Belo Horizonte, Recife, Maceió e Salvador
+[Rupy](http://rupy.com.br) | São José dos Campos e Campinas
+[GURU-SP](https://gurusp.org) | São Paulo
+[Rubyconf](http://www.rubyconf.com.br) | São Paulo
+[Ruby on Rio](http://rubyonrio.com) | Rio de Janeiro
+[Tropical Ruby](http://tropicalrb.com) | Porto de Galinhas
