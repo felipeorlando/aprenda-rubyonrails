@@ -53,7 +53,12 @@ Blog | Principal(is) Autor(es) | Idioma
 [Treehouse Blog](http://blog.teamtreehouse.com) | Treehouse Team | En
 
 ## :video_camera: Palestras (vídeos)
-...
+Título | Evento | Assuntos
+:-- | :-- | :--
+[RubyConf Brasil](https://www.youtube.com/playlist?list=PLiWHHufbVh1jL5XdDUQaG3gVI8Fz2O9Iz) | Rupy | Ruby Stack, Empreendedorismo
+[Playlist GuruSP](https://www.youtube.com/playlist?list=PLiWHHufbVh1gwuIG8Gjjbl6iTC2mjjlga) | GuruSP | Ruby Stack
+[Rupy 2013](https://www.youtube.com/playlist?list=PL2wuXvTPJ0_kUBha_sApMwpWFo0QZg8M2) | Rupy | Ruby Stack, Python Stack, Javascript Stack
+[Rupy 2014](https://www.youtube.com/playlist?list=PL2wuXvTPJ0_kIRxt4sObruGDIHWBwhlzu) | Rupy | Ruby Stack, Python Stack, Javascript Stack
 
 ## :bulb: Eventos Ativos
 Nome do Evento | Região Realizada
