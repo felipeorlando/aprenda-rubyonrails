@@ -16,7 +16,7 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [Rails 4: Zombie Outlaws](https://www.codeschool.com/courses/rails-4-zombie-outlaws) | Code School | :yellow_heart: | Rails | :moneybag:
 [Surviving APIs with Rails](https://www.codeschool.com/courses/surviving-apis-with-rails) | Code School | :yellow_heart: | Rails | :moneybag:
 [Rails 4 Patterns](https://www.codeschool.com/courses/rails-4-patterns) | Code School | :yellow_heart: | Rails | :moneybag:
-[Intermediate Ruby on Rails]() | Upcase | :yellow_heart: | Rails | :moneybag:
+[Intermediate Ruby on Rails](https://upcase.com/intermediate-ruby-on-rails) | Upcase | :yellow_heart: | Rails | :moneybag:
 [Refactoring](https://upcase.com/refactoring) | Upcase | :heart: | Rails | :moneybag:
 [Rails Testing for Zombies](https://www.codeschool.com/courses/rails-testing-for-zombies) | Code School | :green_heart: | Testes | :moneybag:
 [Testing with RSpec](https://www.codeschool.com/courses/testing-with-rspec) | Code School | :green_heart: | Testes | :moneybag:
