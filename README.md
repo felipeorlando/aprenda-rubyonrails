@@ -24,6 +24,7 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [Rails Development](https://teamtreehouse.com/tracks/rails-development) | Treehouse | :green_heart: | Full-Stack | :moneybag:
 [Começando com Ruby on Rails (em pt-BR)](http://howtocode.com.br/cursos/comecando-com-ruby-on-rails) | How to Code | :yellow_heart: | Full-Stack | :moneybag: 
 [Trilha RoR (em pt-BR)](https://www.alura.com.br/cursos-online-ruby-e-rails) | Alura | :yellow_heart: | Full-Stack | :moneybag:
+[Ruby Monk](https://rubymonk.com/) | C42 Engineering | :yellow_heart: | Ruby | :free:
 
 **Legendas:**
 * :green_heart:: Básico
@@ -43,6 +44,8 @@ Título | Assunto | Formato | Preço | Idioma
 [Cucumber e RSpec: Construa aplicações Ruby com testes e especificações](http://www.casadocodigo.com.br/products/livro-cucumber-rspec-tdd-bdd) | Testes | Ebook e Físico | :moneybag: | pt-BR
 [RSpec: Crie especificações executáveis em Ruby](http://www.casadocodigo.com.br/products/livro-rspec) | Testes | Ebook e Físico | :moneybag: | pt-BR
 [Eloquent Ruby](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104) | Ruby | Ebook e Físico | :moneybag: | En
+[Agile Web Development with Rails 4](https://pragprog.com/book/rails4/agile-web-development-with-rails-4) | Rails | Ebook e Físico | :moneybag: | En
+[Crafting Rails 4 Applications](https://pragprog.com/book/jvrails2/crafting-rails-4-applications) | Rails | Ebook e Físico | :moneybag: | En
 
 ## :newspaper: Blogs
 Blog | Principal(is) Autor(es) | Idioma
