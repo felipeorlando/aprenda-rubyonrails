@@ -70,3 +70,4 @@ Nome do Evento | Região Realizada
 [Rubyconf](http://www.rubyconf.com.br) | São Paulo
 [Ruby on Rio](http://rubyonrio.com) | Rio de Janeiro
 [Tropical Ruby](http://tropicalrb.com) | Porto de Galinhas
+[Ruby on Rails BH](http://www.meetup.com/pt/Ruby-On-Rails-BH/) | Belo Horizonte
