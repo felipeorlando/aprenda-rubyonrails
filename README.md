@@ -8,6 +8,7 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [Ruby (em pt-BR)](https://www.codecademy.com/pt-BR/learn/ruby) | Codecademy | :green_heart: | Ruby | :free:
 [Ruby Bits](https://www.codeschool.com/courses/ruby-bits) | Code School | :yellow_heart: | Ruby | :moneybag:
 [Ruby Bits Part 2](https://www.codeschool.com/courses/ruby-bits-part-2) | Code School | :yellow_heart: | Ruby | :moneybag:
+[Ruby Monk](https://rubymonk.com/) | C42 Engineering | :yellow_heart: | Ruby | :free:
 [Learn Ruby on Rails](https://www.codecademy.com/pt-BR/learn/learn-rails) | Codecademy | :green_heart: | Rails | :free:
 [Rails for Zombies Redux](https://www.codeschool.com/courses/rails-for-zombies-redux) | Code School | :green_heart: | Rails | :free:
 [Rails for Zombies 2](https://www.codeschool.com/courses/rails-for-zombies-2) | Code School | :green_heart: | Rails | :moneybag:
@@ -24,7 +25,6 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [Rails Development](https://teamtreehouse.com/tracks/rails-development) | Treehouse | :green_heart: | Full-Stack | :moneybag:
 [Começando com Ruby on Rails (em pt-BR)](http://howtocode.com.br/cursos/comecando-com-ruby-on-rails) | How to Code | :yellow_heart: | Full-Stack | :moneybag: 
 [Trilha RoR (em pt-BR)](https://www.alura.com.br/cursos-online-ruby-e-rails) | Alura | :yellow_heart: | Full-Stack | :moneybag:
-[Ruby Monk](https://rubymonk.com/) | C42 Engineering | :yellow_heart: | Ruby | :free:
 
 **Legendas:**
 * :green_heart:: Básico
@@ -38,14 +38,14 @@ Título | Assunto | Formato | Preço | Idioma
 [Conhecendo Ruby](https://leanpub.com/conhecendo-ruby) | Ruby | Ebook | :free: | pt-BR
 [Ruby: Aprenda a programar na linguagem mais divertida](http://www.casadocodigo.com.br/products/livro-ruby) | Ruby | Ebook e Físico | :moneybag: | pt-BR
 [Refatorando com padrões de projeto: Um guia em Ruby](http://www.casadocodigo.com.br/products/livro-refatoracao-ruby) | Ruby | Ebook e Físico | :moneybag: | pt-BR
+[Eloquent Ruby](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104) | Ruby | Ebook e Físico | :moneybag: | En
 [Conhecendo Rails](https://leanpub.com/conhecendo-rails) | Rails | Ebook | :moneybag: | pt-BR
 [Ruby on Rails: coloque sua aplicação web nos trilhos](http://www.casadocodigo.com.br/products/livro-ruby-on-rails)  | Rails | Ebook e Físico | :moneybag: | pt-BR
+[Agile Web Development with Rails 4](https://pragprog.com/book/rails4/agile-web-development-with-rails-4) | Rails | Ebook e Físico | :moneybag: | En
+[Crafting Rails 4 Applications](https://pragprog.com/book/jvrails2/crafting-rails-4-applications) | Rails | Ebook e Físico | :moneybag: | En
 [Test Driven Development: Teste e design no mundo real com Ruby](http://www.casadocodigo.com.br/products/livro-Testes-ruby) | Testes | Ebook e Físico | :moneybag: | pt-BR
 [Cucumber e RSpec: Construa aplicações Ruby com testes e especificações](http://www.casadocodigo.com.br/products/livro-cucumber-rspec-tdd-bdd) | Testes | Ebook e Físico | :moneybag: | pt-BR
 [RSpec: Crie especificações executáveis em Ruby](http://www.casadocodigo.com.br/products/livro-rspec) | Testes | Ebook e Físico | :moneybag: | pt-BR
-[Eloquent Ruby](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104) | Ruby | Ebook e Físico | :moneybag: | En
-[Agile Web Development with Rails 4](https://pragprog.com/book/rails4/agile-web-development-with-rails-4) | Rails | Ebook e Físico | :moneybag: | En
-[Crafting Rails 4 Applications](https://pragprog.com/book/jvrails2/crafting-rails-4-applications) | Rails | Ebook e Físico | :moneybag: | En
 
 ## :newspaper: Blogs
 Blog | Principal(is) Autor(es) | Idioma
