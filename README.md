@@ -25,6 +25,7 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [Rails Development](https://teamtreehouse.com/tracks/rails-development) | Treehouse | :green_heart: | Full-Stack | :moneybag:
 [Começando com Ruby on Rails (em pt-BR)](http://howtocode.com.br/cursos/comecando-com-ruby-on-rails) | How to Code | :yellow_heart: | Full-Stack | :moneybag: 
 [Trilha RoR (em pt-BR)](https://www.alura.com.br/cursos-online-ruby-e-rails) | Alura | :yellow_heart: | Full-Stack | :moneybag:
+[Become a Rails Developer](https://pt.coursera.org/specializations/ruby-on-rails) | Johns Hopkins University | :heart: | Full-Stack | :moneybag:
 
 **Legendas:**
 * :green_heart:: Básico
