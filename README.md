@@ -76,6 +76,13 @@ Título | Evento | Assuntos
 [Rupy 2013](https://www.youtube.com/playlist?list=PL2wuXvTPJ0_kUBha_sApMwpWFo0QZg8M2) | Rupy | Ruby Stack, Python Stack, Javascript Stack
 [Rupy 2014](https://www.youtube.com/playlist?list=PL2wuXvTPJ0_kIRxt4sObruGDIHWBwhlzu) | Rupy | Ruby Stack, Python Stack, Javascript Stack
 
+## :computer: Screencasts
+Título | Assunto | Idioma
+:-- | :-- | :--
+[Ruby Tapas](http://www.rubytapas.com/) | Ruby on Rails | Inglês
+[Ruby Off Rails](http://rubyoffrails.com/) | Ruby | Inglês
+[Go Rails](http://gorails.com) | Ruby on Rails | Inglês
+
 
 ## :circus_tent: Eventos Ativos
 
