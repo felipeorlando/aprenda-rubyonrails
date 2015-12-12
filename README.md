@@ -35,7 +35,7 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [Começando com Ruby on Rails (em pt-BR)](http://howtocode.com.br/cursos/comecando-com-ruby-on-rails) | How to Code | :large_orange_diamond: | Full-Stack | :moneybag: 
 [Trilha RoR (em pt-BR)](https://www.alura.com.br/cursos-online-ruby-e-rails) | Alura | :large_orange_diamond: | Full-Stack | :moneybag:
 [Become a Rails Developer](https://pt.coursera.org/specializations/ruby-on-rails) | Johns Hopkins University | :red_circle: | Full-Stack | :moneybag:
-
+[RubyCoach](http://www.rubycoach.com.br/jumpstart-inscricoes-encerradas.html) | RubyCoach | :large_orange_diamond: | Full-Stack | :moneybag:
 
 ## :book: Livros
 
