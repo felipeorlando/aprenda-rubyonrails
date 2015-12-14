@@ -96,3 +96,9 @@ Nome do Evento | Região Realizada
 [Ruby on Rio](http://rubyonrio.com) | Rio de Janeiro
 [Tropical Ruby](http://tropicalrb.com) | Porto de Galinhas
 [Ruby on Rails BH](http://www.meetup.com/pt/Ruby-On-Rails-BH/) | Belo Horizonte
+
+## :speech_balloon: Comunidades
+
+Nome da Comunidade | Tipo | Idioma
+:-- | :-- | :--
+[Ruby Talk](http://rubytalk.net) | Chat | Português
