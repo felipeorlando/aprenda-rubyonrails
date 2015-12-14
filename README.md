@@ -22,7 +22,6 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [Rails for Zombies Redux](https://www.codeschool.com/courses/rails-for-zombies-redux) | Code School | :green_heart: | Rails | :free:
 [Rails for Zombies 2](https://www.codeschool.com/courses/rails-for-zombies-2) | Code School | :green_heart: | Rails | :moneybag:
 [Rails for Zombies 2](https://www.codeschool.com/courses/rails-for-zombies-2) | Code School | :green_heart: | Rails | :moneybag:
-[Space Rails](http://spacerails.com.br/) | Space Rails| :green_heart: | Rails | :free:
 [Rails 4: Zombie Outlaws](https://www.codeschool.com/courses/rails-4-zombie-outlaws) | Code School | :large_orange_diamond: | Rails | :moneybag:
 [Surviving APIs with Rails](https://www.codeschool.com/courses/surviving-apis-with-rails) | Code School | :large_orange_diamond: | Rails | :moneybag:
 [Rails 4 Patterns](https://www.codeschool.com/courses/rails-4-patterns) | Code School | :large_orange_diamond: | Rails | :moneybag:
@@ -33,7 +32,7 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [Testing Fundamentals](https://upcase.com/testing-fundamentals) | Upcase | :green_heart: | Testes | :moneybag:
 [Test Doubles](https://upcase.com/test-doubles) | Upcase | :large_orange_diamond: | Testes | :moneybag:
 [Rails Development](https://teamtreehouse.com/tracks/rails-development) | Treehouse | :green_heart: | Full-Stack | :moneybag:
-[Começando com Ruby on Rails (em pt-BR)](http://howtocode.com.br/cursos/comecando-com-ruby-on-rails) | How to Code | :large_orange_diamond: | Full-Stack | :moneybag:
+[Começando com Ruby on Rails (em pt-BR)](http://howtocode.com.br/cursos/comecando-com-ruby-on-rails) | How to Code | :large_orange_diamond: | Full-Stack | :moneybag: 
 [Trilha RoR (em pt-BR)](https://www.alura.com.br/cursos-online-ruby-e-rails) | Alura | :large_orange_diamond: | Full-Stack | :moneybag:
 [Become a Rails Developer](https://pt.coursera.org/specializations/ruby-on-rails) | Johns Hopkins University | :red_circle: | Full-Stack | :moneybag:
 [RubyCoach](http://www.rubycoach.com.br/jumpstart-inscricoes-encerradas.html) | RubyCoach | :large_orange_diamond: | Full-Stack | :moneybag:
@@ -103,3 +102,13 @@ Nome do Evento | Região Realizada
 Nome da Comunidade | Tipo | Idioma
 :-- | :-- | :--
 [Ruby Talk](http://rubytalk.net) | Chat | Português
+
+## :paperclip: Feeds
+Link | Idioma
+:-- | :-- 
+[Ruby News](https://www.ruby-lang.org/en/news/) | Inglês
+[Ruby Inside](http://www.rubyinside.com/) | Inglês
+[Ruby Weekly](http://rubyweekly.com/) | Inglês
+[Ruby Flow](http://www.rubyflow.com/) | Inglês
+[Ruby Daily](http://paper.rubydaily.org/) | Inglês
+[Awesome Ruby](http://awesome-ruby.com) | Inglês
