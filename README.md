@@ -104,8 +104,8 @@ Nome da Comunidade | Tipo | Idioma
 [Ruby Talk](http://rubytalk.net) | Chat | Português
 
 ## :paperclip: Feeds
-Link | Idioma
-:-- | :-- 
+Nome do Feed | Idioma
+:-- | :--:
 [Ruby News](https://www.ruby-lang.org/en/news/) | Inglês
 [Ruby Inside](http://www.rubyinside.com/) | Inglês
 [Ruby Weekly](http://rubyweekly.com/) | Inglês
