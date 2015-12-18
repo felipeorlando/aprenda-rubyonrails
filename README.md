@@ -2,8 +2,18 @@
 
 Central de conhecimento sobre Ruby, Ruby on Rails e afins.
 
+## Índice
 
-## :mortar_board: Cursos Ruby
+* [Cursos](#mortar_board-cursos)
+* [Livros](#book-livros)
+* [Blogs](#newspaper-blogs)
+* [Palestras (vídeos)](#video_camera-palestras-vídeos)
+* [Screencasts](#computer-screencasts)
+* [Eventos ativos](#eventos-ativos)
+* [Comunidades](#speech_balloon-comunidades)
+* [Feeds](#paperclip-feeds)
+
+## :mortar_board: Ruby
 
 **Legenda:**
 
