@@ -13,7 +13,7 @@ Central de conhecimento sobre Ruby, Ruby on Rails e afins.
 * [Comunidades](#speech_balloon-comunidades)
 * [Feeds](#paperclip-feeds)
 
-## :mortar_board: Ruby
+## :mortar_board: Cursos
 
 **Legenda:**
 
