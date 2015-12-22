@@ -93,6 +93,7 @@ Título | Assunto | Idioma
 [Ruby Tapas](http://www.rubytapas.com/) | Ruby on Rails | Inglês
 [Ruby Off Rails](http://rubyoffrails.com/) | Ruby | Inglês
 [Go Rails](http://gorails.com) | Ruby on Rails | Inglês
+[Mackenzie Child](https://mackenziechild.me/) | Ruby on Rails | Inglês
 
 
 ## :circus_tent: Eventos Ativos
