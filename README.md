@@ -52,6 +52,7 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 Título | Assunto | Formato | Preço | Idioma
 :-- | :--: | :--: | :--: | :--:
 [Introdução à Computação: Da Lógica aos jogos com Ruby](http://www.casadocodigo.com.br/products/livro-aprendendo-computacao-ruby) | Ruby | E-book e Físico | :moneybag: | Português
+[Aprenda a programar](http://www.jmonteiro.com/aprendaaprogramar/) | Ruby | E-book e Fisico | :free: | Português
 [Conhecendo Ruby](https://leanpub.com/conhecendo-ruby) | Ruby | E-book | :free: | Português
 [Ruby: Aprenda a programar na linguagem mais divertida](http://www.casadocodigo.com.br/products/livro-ruby) | Ruby | E-book e Físico | :moneybag: | Português
 [Refatorando com padrões de projeto: Um guia em Ruby](http://www.casadocodigo.com.br/products/livro-refatoracao-ruby) | Ruby | E-book e Físico | :moneybag: | Português
@@ -93,6 +94,7 @@ Título | Assunto | Idioma
 [Ruby Tapas](http://www.rubytapas.com/) | Ruby on Rails | Inglês
 [Ruby Off Rails](http://rubyoffrails.com/) | Ruby | Inglês
 [Go Rails](http://gorails.com) | Ruby on Rails | Inglês
+[Mackenzie Child](https://mackenziechild.me/) | Ruby on Rails | Inglês
 
 
 ## :circus_tent: Eventos Ativos
