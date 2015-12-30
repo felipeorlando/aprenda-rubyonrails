@@ -58,6 +58,7 @@ Título | Assunto | Formato | Preço | Idioma
 [Refatorando com padrões de projeto: Um guia em Ruby](http://www.casadocodigo.com.br/products/livro-refatoracao-ruby) | Ruby | E-book e Físico | :moneybag: | Português
 [Eloquent Ruby](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104) | Ruby | E-book e Físico | :moneybag: | Inglês
 [Eloquent Ruby](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104) | Ruby | E-book e Físico | :moneybag: | Inglês
+[Desenv. Ágil para Web com Ruby on Rails](https://www.caelum.com.br/apostila-ruby-on-rails/) | Rails | E-book | :free: | Português
 [Conhecendo Rails](https://leanpub.com/conhecendo-rails) | Rails | E-book | :moneybag: | Português
 [Agile Web Development with Rails 4](https://pragprog.com/book/rails4/agile-web-development-with-rails-4) | Rails | E-book e Físico | :moneybag: | Inglês
 [Ruby on Rails: coloque sua aplicação web nos trilhos](http://www.casadocodigo.com.br/products/livro-ruby-on-rails)  | Rails | E-book e Físico | :moneybag: | Português
