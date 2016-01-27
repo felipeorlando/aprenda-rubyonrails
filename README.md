@@ -47,6 +47,8 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [Become a Rails Developer](https://pt.coursera.org/specializations/ruby-on-rails) | Johns Hopkins University | :red_circle: | Full-Stack | :moneybag:
 [RubyCoach](http://www.rubycoach.com.br/jumpstart-inscricoes-encerradas.html) | RubyCoach | :large_orange_diamond: | Full-Stack | :moneybag:
 
+[Ir para o índice](#indice)
+
 ## :book: Livros
 
 Título | Assunto | Formato | Preço | Idioma
@@ -68,6 +70,7 @@ Título | Assunto | Formato | Preço | Idioma
 [RSpec: Crie especificações executáveis em Ruby](http://www.casadocodigo.com.br/products/livro-rspec) | Testes | E-book e Físico | :moneybag: | Português
 [Everyday Rails Testing with RSpec](https://leanpub.com/everydayrailsrspec) | Testes | E-book | :moneybag: | Inglês
 
+[Ir para o índice](#indice)
 
 ## :newspaper: Blogs
 
@@ -79,6 +82,7 @@ Blog | Principal(is) Autor(es) | Idioma
 [Akita on Rails](http://akitaonrails.com) | Fabio Akita | Português
 [Treehouse Blog](http://blog.teamtreehouse.com) | Treehouse Team | Inglês
 
+[Ir para o índice](#indice)
 
 ## :video_camera: Palestras (vídeos)
 
@@ -89,6 +93,8 @@ Título | Evento | Assuntos
 [Rupy 2013](https://www.youtube.com/playlist?list=PL2wuXvTPJ0_kUBha_sApMwpWFo0QZg8M2) | Rupy | Ruby Stack, Python Stack, Javascript Stack
 [Rupy 2014](https://www.youtube.com/playlist?list=PL2wuXvTPJ0_kIRxt4sObruGDIHWBwhlzu) | Rupy | Ruby Stack, Python Stack, Javascript Stack
 
+[Ir para o índice](#indice)
+
 ## :computer: Screencasts
 Título | Assunto | Idioma
 :-- | :-- | :--
@@ -96,6 +102,8 @@ Título | Assunto | Idioma
 [Ruby Off Rails](http://rubyoffrails.com/) | Ruby | Inglês
 [Go Rails](http://gorails.com) | Ruby on Rails | Inglês
 [Mackenzie Child](https://mackenziechild.me/) | Ruby on Rails | Inglês
+
+[Ir para o índice](#indice)
 
 
 ## :circus_tent: Eventos Ativos
@@ -110,11 +118,15 @@ Nome do Evento | Região Realizada
 [Tropical Ruby](http://tropicalrb.com) | Porto de Galinhas
 [Ruby on Rails BH](http://www.meetup.com/pt/Ruby-On-Rails-BH/) | Belo Horizonte
 
+[Ir para o índice](#indice)
+
 ## :speech_balloon: Comunidades
 
 Nome da Comunidade | Tipo | Idioma
 :-- | :-- | :--
 [Ruby Talk](http://rubytalk.net) | Chat | Português
+
+[Ir para o índice](#indice)
 
 ## :paperclip: Feeds
 Nome do Feed | Idioma
@@ -125,3 +137,5 @@ Nome do Feed | Idioma
 [Ruby Flow](http://www.rubyflow.com/) | Inglês
 [Ruby Daily](http://paper.rubydaily.org/) | Inglês
 [Awesome Ruby](http://awesome-ruby.com) | Inglês
+
+[Ir para o índice](#indice)
