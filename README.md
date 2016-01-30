@@ -138,4 +138,10 @@ Nome do Feed | Idioma
 [Ruby Daily](http://paper.rubydaily.org/) | Inglês
 [Awesome Ruby](http://awesome-ruby.com) | Inglês
 
+## :sound: Podcasts
+Nome do Podcast | Idioma
+:-- | :--:
+[Ruby Rogues](https://devchat.tv/ruby-rogues/) | Inglês
+[Ruby5](https://ruby5.codeschool.com/) | Inglês
+
 [Ir para o índice](#Índice)
