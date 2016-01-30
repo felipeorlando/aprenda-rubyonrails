@@ -46,6 +46,7 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [Trilha RoR (em pt-BR)](https://www.alura.com.br/cursos-online-ruby-e-rails) | Alura | :large_orange_diamond: | Full-Stack | :moneybag:
 [Become a Rails Developer](https://pt.coursera.org/specializations/ruby-on-rails) | Johns Hopkins University | :red_circle: | Full-Stack | :moneybag:
 [RubyCoach](http://www.rubycoach.com.br/jumpstart-inscricoes-encerradas.html) | RubyCoach | :large_orange_diamond: | Full-Stack | :moneybag:
+[Vários cursos gratuítos - Udemy](https://www.udemy.com/courses/search/?ref=home&src=ukw&q=ruby+on+rails&pm_value=0&price=price-free) | Udemy | Full-Stack | :free:
 
 [Ir para o índice](#Índice)
 
