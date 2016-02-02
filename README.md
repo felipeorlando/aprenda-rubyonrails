@@ -12,6 +12,8 @@ Central de conhecimento sobre Ruby, Ruby on Rails e afins.
 * [Eventos ativos](#eventos-ativos)
 * [Comunidades](#speech_balloon-comunidades)
 * [Feeds](#paperclip-feeds)
+* [Feeds](#paperclip-feeds)
+* [Podcasts](#sound-podcasts)
 
 ## :mortar_board: Cursos
 
@@ -137,6 +139,8 @@ Nome do Feed | Idioma
 [Ruby Flow](http://www.rubyflow.com/) | Inglês
 [Ruby Daily](http://paper.rubydaily.org/) | Inglês
 [Awesome Ruby](http://awesome-ruby.com) | Inglês
+
+[Ir para o índice](#Índice)
 
 ## :sound: Podcasts
 Nome do Podcast | Idioma
