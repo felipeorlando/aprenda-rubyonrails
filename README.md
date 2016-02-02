@@ -12,7 +12,6 @@ Central de conhecimento sobre Ruby, Ruby on Rails e afins.
 * [Eventos ativos](#eventos-ativos)
 * [Comunidades](#speech_balloon-comunidades)
 * [Feeds](#paperclip-feeds)
-* [Feeds](#paperclip-feeds)
 * [Podcasts](#sound-podcasts)
 
 ## :mortar_board: Cursos
