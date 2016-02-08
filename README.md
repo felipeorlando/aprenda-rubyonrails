@@ -1,3 +1,5 @@
+![ROR Resources Cover](https://raw.githubusercontent.com/felinalabs/ror-resources/master/cover.jpg)
+
 # Recursos Ruby e Rails
 
 Central de conhecimento sobre Ruby, Ruby on Rails e afins.
