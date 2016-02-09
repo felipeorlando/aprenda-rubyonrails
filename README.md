@@ -67,6 +67,7 @@ Título | Assunto | Formato | Preço | Idioma
 [Ruby Cookbook](http://www.amazon.com/Ruby-Cookbook-Lucas-Carlson/dp/1449373712?tag=jhu-ruby-coursera-20) | Ruby | Físico | :moneybag: | Inglês
 [Head First Ruby](http://shop.oreilly.com/product/9780596803995.do) | Ruby | Físico | :moneybag: | Inglês
 [Metaprogramming Ruby 2](https://pragprog.com/book/ppmetr2/metaprogramming-ruby) | Ruby | E-book e Físico | :moneybag: | Inglês
+[Programming Ruby](https://pragprog.com/book/ruby4/programming-ruby-1-9-2-0) | Ruby | E-book e Físico | :moneybag: | Inglês
 [Desenv. Ágil para Web com Ruby on Rails](https://www.caelum.com.br/apostila-ruby-on-rails/) | Rails | E-book | :free: | Português
 [Conhecendo Rails](https://leanpub.com/conhecendo-rails) | Rails | E-book | :moneybag: | Português
 [Agile Web Development with Rails 4](https://pragprog.com/book/rails4/agile-web-development-with-rails-4) | Rails | E-book e Físico | :moneybag: | Inglês
