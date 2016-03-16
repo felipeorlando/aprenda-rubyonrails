@@ -51,6 +51,7 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [RubyCoach](http://www.rubycoach.com.br/jumpstart-inscricoes-encerradas.html) | RubyCoach | :large_orange_diamond: | Full-Stack | :moneybag:
 [Vários cursos gratuítos - Udemy](https://www.udemy.com/courses/search/?ref=home&src=ukw&q=ruby+on+rails&pm_value=0&price=price-free) | Udemy | :green_heart: | Full-Stack | :free:
 [Desenvolvimento de Aplicativos Web](https://www.coursera.org/course/webapplications) | The University of New Mexico | :large_orange_diamond: | Full-Stack | :moneybag:
+[Rails Courses](https://thinkster.io/topics/rails) | Thinkster | :large_orange_diamond: | Full-Stack | :moneybag:
 
 [Ir para o índice](#Índice)
 
