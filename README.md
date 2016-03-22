@@ -44,6 +44,7 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [Testing with RSpec](https://www.codeschool.com/courses/testing-with-rspec) | Code School | :green_heart: | Testes | :moneybag:
 [Testing Fundamentals](https://upcase.com/testing-fundamentals) | Upcase | :green_heart: | Testes | :moneybag:
 [Test Doubles](https://upcase.com/test-doubles) | Upcase | :large_orange_diamond: | Testes | :moneybag:
+[Discover TDD](http://www.blackbytes.info/discover-tdd/) | Black Bytes | :large_orange_diamond: | Testes | :free:
 [Rails Development](https://teamtreehouse.com/tracks/rails-development) | Treehouse | :green_heart: | Full-Stack | :moneybag:
 [Começando com Ruby on Rails (em pt-BR)](http://howtocode.com.br/cursos/comecando-com-ruby-on-rails) | How to Code | :large_orange_diamond: | Full-Stack | :moneybag: 
 [Trilha RoR (em pt-BR)](https://www.alura.com.br/cursos-online-ruby-e-rails) | Alura | :large_orange_diamond: | Full-Stack | :moneybag:
