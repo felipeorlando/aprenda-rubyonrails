@@ -93,6 +93,7 @@ Blog | Principal(is) Autor(es) | Idioma
 [Marcos Brizeno](https://brizeno.wordpress.com) | Marcos Brizeno | Português
 [Akita on Rails](http://akitaonrails.com) | Fabio Akita | Português
 [Treehouse Blog](http://blog.teamtreehouse.com) | Treehouse Team | Inglês
+[Thoughtbot Blog](https://robots.thoughtbot.com) | Thoughtbot Team | Inglês
 
 [Ir para o índice](#Índice)
 
