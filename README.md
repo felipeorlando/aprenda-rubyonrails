@@ -102,10 +102,12 @@ Blog | Principal(is) Autor(es) | Idioma
 
 Título | Evento | Assuntos
 :-- | :-- | :--
-[RubyConf Brasil](https://www.youtube.com/playlist?list=PLiWHHufbVh1jL5XdDUQaG3gVI8Fz2O9Iz) | Rupy | Ruby Stack, Empreendedorismo
+[RubyConf Brasil](https://www.youtube.com/playlist?list=PLiWHHufbVh1jL5XdDUQaG3gVI8Fz2O9Iz) | RubyConf | Ruby Stack, Empreendedorismo
 [Playlist GURU-SP](https://www.youtube.com/playlist?list=PLiWHHufbVh1gwuIG8Gjjbl6iTC2mjjlga) | GURU-SP | Ruby Stack
 [Rupy 2013](https://www.youtube.com/playlist?list=PL2wuXvTPJ0_kUBha_sApMwpWFo0QZg8M2) | Rupy | Ruby Stack, Python Stack, Javascript Stack
 [Rupy 2014](https://www.youtube.com/playlist?list=PL2wuXvTPJ0_kIRxt4sObruGDIHWBwhlzu) | Rupy | Ruby Stack, Python Stack, Javascript Stack
+[Tropicalrb 2014](http://confreaks.tv/events/abrilproruby2014) | Tropicalrb | Ruby Stack
+[Tropicalrb 2015](http://confreaks.tv/events/tropicalrb2015) | Tropicalrb | Ruby Stack
 
 [Ir para o índice](#Índice)
 
