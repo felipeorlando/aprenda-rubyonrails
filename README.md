@@ -75,9 +75,9 @@ Título | Assunto | Formato | Preço | Idioma
 [Desenv. Ágil para Web com Ruby on Rails](https://www.caelum.com.br/apostila-ruby-on-rails/) | Rails | E-book | :free: | Português
 [Conhecendo Rails](https://leanpub.com/conhecendo-rails) | Rails | E-book | :moneybag: | Português
 [Agile Web Development with Rails 4](https://pragprog.com/book/rails4/agile-web-development-with-rails-4) | Rails | E-book e Físico | :moneybag: | Inglês
-[Ruby on Rails: coloque sua aplicação web nos trilhos](http://www.casadocodigo.com.br/products/livro-ruby-on-rails)  | Rails | E-book e Físico | :moneybag: | Português
+[Ruby on Rails: coloque sua aplicação web nos trilhos](https://www.casadocodigo.com.br/products/livro-ruby-on-rails)  | Rails | E-book e Físico | :moneybag: | Português
 [Crafting Rails 4 Applications](https://pragprog.com/book/jvrails2/crafting-rails-4-applications) | Rails | E-book e Físico | :moneybag: | Inglês
-[Test Driven Development: Teste e design no mundo real com Ruby](https://www.casadocodigo.com.br/products/livro-Testes-ruby) | Testes | E-book e Físico | :moneybag: | Português
+[Test Driven Development: Teste e design no mundo real com Ruby](https://www.casadocodigo.com.br/products/livro-tdd-ruby) | Testes | E-book e Físico | :moneybag: | Português
 [Cucumber e RSpec: Construa aplicações Ruby com testes e especificações](https://www.casadocodigo.com.br/products/livro-cucumber-rspec-tdd-bdd) | Testes | E-book e Físico | :moneybag: | Português
 [RSpec: Crie especificações executáveis em Ruby](https://www.casadocodigo.com.br/products/livro-rspec) | Testes | E-book e Físico | :moneybag: | Português
 [Everyday Rails Testing with RSpec](https://leanpub.com/everydayrailsrspec) | Testes | E-book | :moneybag: | Inglês
@@ -92,7 +92,7 @@ Blog | Principal(is) Autor(es) | Idioma
 [Nando Vieira](https://nandovieira.com.br) | Nando Vieira | Português
 [Blog Plataformatec](http://blog.plataformatec.com.br) | José Valim e Hugo Baraúna | Português
 [Marcos Brizeno](https://brizeno.wordpress.com) | Marcos Brizeno | Português
-[Akita on Rails](http://akitaonrails.com) | Fabio Akita | Português
+[Akita on Rails](http://www.akitaonrails.com/) | Fabio Akita | Português
 [Treehouse Blog](http://blog.teamtreehouse.com) | Treehouse Team | Inglês
 [Thoughtbot Blog](https://robots.thoughtbot.com) | Thoughtbot Team | Inglês
 
