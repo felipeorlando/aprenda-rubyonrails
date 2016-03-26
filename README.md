@@ -1,5 +1,7 @@
 ![ROR Resources Cover](https://raw.githubusercontent.com/felinalabs/ror-resources/master/cover.jpg)
 
+[![Build Status](https://travis-ci.org/felinalabs/ror-resources.svg?branch=master)](https://travis-ci.org/felinalabs/ror-resources)
+
 # Recursos Ruby e Rails
 
 Central de conhecimento sobre Ruby, Ruby on Rails e afins.
@@ -34,7 +36,6 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [Learn Ruby on Rails](https://www.codecademy.com/pt-BR/learn/learn-rails) | Codecademy | :green_heart: | Rails | :free:
 [Rails for Zombies Redux](https://www.codeschool.com/courses/rails-for-zombies-redux) | Code School | :green_heart: | Rails | :free:
 [Rails for Zombies 2](https://www.codeschool.com/courses/rails-for-zombies-2) | Code School | :green_heart: | Rails | :moneybag:
-[Rails for Zombies 2](https://www.codeschool.com/courses/rails-for-zombies-2) | Code School | :green_heart: | Rails | :moneybag:
 [Rails 4: Zombie Outlaws](https://www.codeschool.com/courses/rails-4-zombie-outlaws) | Code School | :large_orange_diamond: | Rails | :moneybag:
 [Surviving APIs with Rails](https://www.codeschool.com/courses/surviving-apis-with-rails) | Code School | :large_orange_diamond: | Rails | :moneybag:
 [Rails 4 Patterns](https://www.codeschool.com/courses/rails-4-patterns) | Code School | :large_orange_diamond: | Rails | :moneybag:
@@ -46,11 +47,11 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [Test Doubles](https://upcase.com/test-doubles) | Upcase | :large_orange_diamond: | Testes | :moneybag:
 [Discover TDD](http://www.blackbytes.info/discover-tdd/) | Black Bytes | :large_orange_diamond: | Testes | :free:
 [Rails Development](https://teamtreehouse.com/tracks/rails-development) | Treehouse | :green_heart: | Full-Stack | :moneybag:
-[Começando com Ruby on Rails (em pt-BR)](http://howtocode.com.br/cursos/comecando-com-ruby-on-rails) | How to Code | :large_orange_diamond: | Full-Stack | :moneybag: 
-[Trilha RoR (em pt-BR)](https://www.alura.com.br/cursos-online-ruby-e-rails) | Alura | :large_orange_diamond: | Full-Stack | :moneybag:
+[Começando com Ruby on Rails (em pt-BR)](http://howtocode.com.br/cursos/comecando-com-ruby-on-rails) | How to Code | :large_orange_diamond: | Full-Stack | :moneybag:
+[Trilha RoR (em pt-BR)](https://www.alura.com.br/cursos-online-programacao) | Alura | :large_orange_diamond: | Full-Stack | :moneybag:
 [Become a Rails Developer](https://pt.coursera.org/specializations/ruby-on-rails) | Johns Hopkins University | :red_circle: | Full-Stack | :moneybag:
 [RubyCoach](http://www.rubycoach.com.br/jumpstart-inscricoes-encerradas.html) | RubyCoach | :large_orange_diamond: | Full-Stack | :moneybag:
-[Vários cursos gratuítos - Udemy](https://www.udemy.com/courses/search/?ref=home&src=ukw&q=ruby+on+rails&pm_value=0&price=price-free) | Udemy | :green_heart: | Full-Stack | :free:
+[Vários cursos gratuítos - Udemy](https://www.udemy.com/courses/search/?pm_value=0&price=price-free&q=ruby+on+rails&ref=home&src=ukw&lang=en) | Udemy | :green_heart: | Full-Stack | :free:
 [Desenvolvimento de Aplicativos Web](https://www.coursera.org/course/webapplications) | The University of New Mexico | :large_orange_diamond: | Full-Stack | :moneybag:
 [Rails Courses](https://thinkster.io/topics/rails) | Thinkster | :large_orange_diamond: | Full-Stack | :moneybag:
 
@@ -60,11 +61,11 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 
 Título | Assunto | Formato | Preço | Idioma
 :-- | :--: | :--: | :--: | :--:
-[Introdução à Computação: Da Lógica aos jogos com Ruby](http://www.casadocodigo.com.br/products/livro-aprendendo-computacao-ruby) | Ruby | E-book e Físico | :moneybag: | Português
+[Introdução à Computação: Da Lógica aos jogos com Ruby](https://www.casadocodigo.com.br/products/livro-aprendendo-computacao-ruby) | Ruby | E-book e Físico | :moneybag: | Português
 [Aprenda a programar](http://www.jmonteiro.com/aprendaaprogramar/) | Ruby | E-book e Fisico | :free: | Português
 [Conhecendo Ruby](https://leanpub.com/conhecendo-ruby) | Ruby | E-book | :free: | Português
-[Ruby: Aprenda a programar na linguagem mais divertida](http://www.casadocodigo.com.br/products/livro-ruby) | Ruby | E-book e Físico | :moneybag: | Português
-[Refatorando com padrões de projeto: Um guia em Ruby](http://www.casadocodigo.com.br/products/livro-refatoracao-ruby) | Ruby | E-book e Físico | :moneybag: | Português
+[Ruby: Aprenda a programar na linguagem mais divertida](https://www.casadocodigo.com.br/products/livro-ruby) | Ruby | E-book e Físico | :moneybag: | Português
+[Refatorando com padrões de projeto: Um guia em Ruby](https://www.casadocodigo.com.br/products/livro-refatoracao-ruby) | Ruby | E-book e Físico | :moneybag: | Português
 [Eloquent Ruby](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104) | Ruby | E-book e Físico | :moneybag: | Inglês
 [Ruby Cookbook](http://www.amazon.com/Ruby-Cookbook-Lucas-Carlson/dp/1449373712?tag=jhu-ruby-coursera-20) | Ruby | Físico | :moneybag: | Inglês
 [Head First Ruby](http://shop.oreilly.com/product/9780596803995.do) | Ruby | Físico | :moneybag: | Inglês
@@ -76,9 +77,9 @@ Título | Assunto | Formato | Preço | Idioma
 [Agile Web Development with Rails 4](https://pragprog.com/book/rails4/agile-web-development-with-rails-4) | Rails | E-book e Físico | :moneybag: | Inglês
 [Ruby on Rails: coloque sua aplicação web nos trilhos](http://www.casadocodigo.com.br/products/livro-ruby-on-rails)  | Rails | E-book e Físico | :moneybag: | Português
 [Crafting Rails 4 Applications](https://pragprog.com/book/jvrails2/crafting-rails-4-applications) | Rails | E-book e Físico | :moneybag: | Inglês
-[Test Driven Development: Teste e design no mundo real com Ruby](http://www.casadocodigo.com.br/products/livro-Testes-ruby) | Testes | E-book e Físico | :moneybag: | Português
-[Cucumber e RSpec: Construa aplicações Ruby com testes e especificações](http://www.casadocodigo.com.br/products/livro-cucumber-rspec-tdd-bdd) | Testes | E-book e Físico | :moneybag: | Português
-[RSpec: Crie especificações executáveis em Ruby](http://www.casadocodigo.com.br/products/livro-rspec) | Testes | E-book e Físico | :moneybag: | Português
+[Test Driven Development: Teste e design no mundo real com Ruby](https://www.casadocodigo.com.br/products/livro-Testes-ruby) | Testes | E-book e Físico | :moneybag: | Português
+[Cucumber e RSpec: Construa aplicações Ruby com testes e especificações](https://www.casadocodigo.com.br/products/livro-cucumber-rspec-tdd-bdd) | Testes | E-book e Físico | :moneybag: | Português
+[RSpec: Crie especificações executáveis em Ruby](https://www.casadocodigo.com.br/products/livro-rspec) | Testes | E-book e Físico | :moneybag: | Português
 [Everyday Rails Testing with RSpec](https://leanpub.com/everydayrailsrspec) | Testes | E-book | :moneybag: | Inglês
 [Practical Object Oriented Design in Ruby](http://www.poodr.com/) | Ruby | E-book e Físico | :moneybag: | Inglês
 
@@ -88,7 +89,7 @@ Título | Assunto | Formato | Preço | Idioma
 
 Blog | Principal(is) Autor(es) | Idioma
 :-- | :-- | :--:
-[Nando Vieira](http://nandovieira.com.br) | Nando Vieira | Português
+[Nando Vieira](https://nandovieira.com.br) | Nando Vieira | Português
 [Blog Plataformatec](http://blog.plataformatec.com.br) | José Valim e Hugo Baraúna | Português
 [Marcos Brizeno](https://brizeno.wordpress.com) | Marcos Brizeno | Português
 [Akita on Rails](http://akitaonrails.com) | Fabio Akita | Português
@@ -113,7 +114,7 @@ Título | Assunto | Idioma
 :-- | :-- | :--
 [Ruby Tapas](http://www.rubytapas.com/) | Ruby on Rails | Inglês
 [Ruby Off Rails](http://rubyoffrails.com/) | Ruby | Inglês
-[Go Rails](http://gorails.com) | Ruby on Rails | Inglês
+[Go Rails](https://gorails.com) | Ruby on Rails | Inglês
 [Mackenzie Child](https://mackenziechild.me/) | Ruby on Rails | Inglês
 
 [Ir para o índice](#Índice)
@@ -129,7 +130,7 @@ Nome do Evento | Região Realizada
 [Rubyconf](http://www.rubyconf.com.br) | São Paulo
 [Ruby on Rio](http://rubyonrio.com) | Rio de Janeiro
 [Tropical Ruby](http://tropicalrb.com) | Porto de Galinhas
-[Ruby on Rails BH](http://www.meetup.com/pt/Ruby-On-Rails-BH/) | Belo Horizonte
+[Ruby on Rails BH](http://www.meetup.com/pt-BR/Ruby-On-Rails-BH/) | Belo Horizonte
 
 [Ir para o índice](#Índice)
 
@@ -137,7 +138,7 @@ Nome do Evento | Região Realizada
 
 Nome da Comunidade | Tipo | Idioma
 :-- | :-- | :--
-[Ruby Talk](http://rubytalk.net) | Chat | Português
+[Ruby Talk](http://www.rubytalk.net) | Chat | Português
 
 [Ir para o índice](#Índice)
 
@@ -148,7 +149,7 @@ Nome do Feed | Idioma
 [Ruby Inside](http://www.rubyinside.com/) | Inglês
 [Ruby Weekly](http://rubyweekly.com/) | Inglês
 [Ruby Flow](http://www.rubyflow.com/) | Inglês
-[Ruby Daily](http://paper.rubydaily.org/) | Inglês
+[Ruby Daily](http://paper.li/f-1364472250) | Inglês
 [Awesome Ruby](http://awesome-ruby.com) | Inglês
 
 [Ir para o índice](#Índice)
