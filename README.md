@@ -1,22 +1,27 @@
-![ROR Resources Cover](https://raw.githubusercontent.com/felinalabs/ror-resources/master/cover.jpg)
+<p align="center">
+	<img src="https://raw.githubusercontent.com/felinalabs/ror-resources/master/cover.jpg" alt="ROR Resources Cover" style="max-width:100%;">
+</p>
 
-[![Build Status](https://travis-ci.org/felinalabs/ror-resources.svg?branch=master)](https://travis-ci.org/felinalabs/ror-resources)
+<h1 align="center">Recursos Ruby e Rails</h1>
 
-# Recursos Ruby e Rails
+<p align="center">Central de conhecimento sobre Ruby, Ruby on Rails e afins.</p>
 
-Central de conhecimento sobre Ruby, Ruby on Rails e afins.
+<p align="center">
+	<a href="https://travis-ci.org/felinalabs/ror-resources"><img src="https://camo.githubusercontent.com/a6a5d44e35b21384d301d64db98ff4b26e2a8309/68747470733a2f2f7472617669732d63692e6f72672f66656c696e616c6162732f726f722d7265736f75726365732e7376673f6272616e63683d6d6173746572" alt="Build Status" data-canonical-src="https://travis-ci.org/felinalabs/ror-resources.svg?branch=master" style="max-width:100%;"></a>
+</p>
 
-## Índice
-
-* [Cursos](#mortar_board-cursos)
-* [Livros](#book-livros)
-* [Blogs](#newspaper-blogs)
-* [Palestras (vídeos)](#video_camera-palestras-vídeos)
-* [Screencasts](#computer-screencasts)
-* [Eventos ativos](#eventos-ativos)
-* [Comunidades](#speech_balloon-comunidades)
-* [Feeds](#paperclip-feeds)
-* [Podcasts](#sound-podcasts)
+<a id="user-content-Índice" class="anchor" href="#Índice" aria-hidden="true"></a>
+<p align="center">
+	<a href="#mortar_board-cursos">Cursos</a> • 
+	<a href="#book-livros">Livros</a> • 
+	<a href="#newspaper-blogs">Blogs</a> • 
+	<a href="#video_camera-palestras-v%C3%ADdeos">Palestras (vídeos)</a> • 
+	<a href="#computer-screencasts">Screencasts</a> • 
+	<a href="#eventos-ativos">Eventos ativos</a> • 
+	<a href="#speech_balloon-comunidades">Comunidades</a> • 
+	<a href="#paperclip-feeds">Feeds</a> • 
+	<a href="#sound-podcasts">Podcasts</a>
+</p>
 
 ## :mortar_board: Cursos
 
@@ -164,3 +169,7 @@ Nome do Podcast | Idioma
 [Ruby on Rails Podcast](http://5by5.tv/rubyonrails) | Inglês
 
 [Ir para o índice](#Índice)
+
+<hr>
+
+yo
