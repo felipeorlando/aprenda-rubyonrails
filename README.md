@@ -169,7 +169,3 @@ Nome do Podcast | Idioma
 [Ruby on Rails Podcast](http://5by5.tv/rubyonrails) | Inglês
 
 [Ir para o índice](#Índice)
-
-<hr>
-
-yo
