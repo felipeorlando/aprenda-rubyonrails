@@ -45,6 +45,7 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [Surviving APIs with Rails](https://www.codeschool.com/courses/surviving-apis-with-rails) | Code School | :large_orange_diamond: | Rails | :moneybag:
 [Rails 4 Patterns](https://www.codeschool.com/courses/rails-4-patterns) | Code School | :large_orange_diamond: | Rails | :moneybag:
 [Intermediate Ruby on Rails](https://upcase.com/intermediate-ruby-on-rails) | Upcase | :large_orange_diamond: | Rails | :moneybag:
+[Curso de Ruby on Rails para Iniciantes](https://www.youtube.com/playlist?list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP) | Jackson Pires | :large_orange_diamond: | Rails | :free:
 [Refactoring](https://upcase.com/refactoring) | Upcase | :red_circle: | Rails | :moneybag:
 [Rails Testing for Zombies](https://www.codeschool.com/courses/rails-testing-for-zombies) | Code School | :green_heart: | Testes | :moneybag:
 [Testing with RSpec](https://www.codeschool.com/courses/testing-with-rspec) | Code School | :green_heart: | Testes | :moneybag:
