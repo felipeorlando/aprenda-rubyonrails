@@ -102,7 +102,7 @@ Blog | Principal(is) Autor(es) | Idioma
 [Akita on Rails](http://www.akitaonrails.com/) | Fabio Akita | Português
 [Treehouse Blog](http://blog.teamtreehouse.com) | Treehouse Team | Inglês
 [Thoughtbot Blog](https://robots.thoughtbot.com) | Thoughtbot Team | Inglês
-[Campus Code](http://blog.campuscode.com.br) | Campus Code | Português
+[Campus Code](http://blog.campuscode.com.br) | Campus Code Team | Português
 
 [Ir para o índice](#Índice)
 
