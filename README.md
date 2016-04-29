@@ -60,6 +60,7 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [Vários cursos gratuítos - Udemy](https://www.udemy.com/courses/search/?pm_value=0&price=price-free&q=ruby+on+rails&ref=home&src=ukw&lang=en) | Udemy | :green_heart: | Full-Stack | :free:
 [Desenvolvimento de Aplicativos Web](https://www.coursera.org/course/webapplications) | The University of New Mexico | :large_orange_diamond: | Full-Stack | :moneybag:
 [Rails Courses](https://thinkster.io/topics/rails) | Thinkster | :large_orange_diamond: | Full-Stack | :moneybag:
+[Full-Stack Developer](http://www.campuscode.com.br) | Campus Code | :green_heart: | Full-Stack | :moneybag:
 
 [Ir para o índice](#Índice)
 
@@ -101,6 +102,7 @@ Blog | Principal(is) Autor(es) | Idioma
 [Akita on Rails](http://www.akitaonrails.com/) | Fabio Akita | Português
 [Treehouse Blog](http://blog.teamtreehouse.com) | Treehouse Team | Inglês
 [Thoughtbot Blog](https://robots.thoughtbot.com) | Thoughtbot Team | Inglês
+[Campus Code](http://blog.campuscode.com.br) | Campus Code Team | Português
 
 [Ir para o índice](#Índice)
 
