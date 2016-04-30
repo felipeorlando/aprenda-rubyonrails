@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://raw.githubusercontent.com/felinalabs/ror-resources/master/cover.jpg" alt="ROR Resources Cover" style="max-width:100%;">
+	<img src="https://raw.githubusercontent.com/felipeorlando/ror-resources/master/cover.jpg" alt="ROR Resources Cover" style="max-width:100%;">
 </p>
 
 <h1 align="center">Recursos Ruby e Rails</h1>
@@ -7,7 +7,7 @@
 <p align="center">Central de conhecimento sobre Ruby, Ruby on Rails e afins.</p>
 
 <p align="center">
-	<a href="https://travis-ci.org/felinalabs/ror-resources"><img src="https://camo.githubusercontent.com/a6a5d44e35b21384d301d64db98ff4b26e2a8309/68747470733a2f2f7472617669732d63692e6f72672f66656c696e616c6162732f726f722d7265736f75726365732e7376673f6272616e63683d6d6173746572" alt="Build Status" data-canonical-src="https://travis-ci.org/felinalabs/ror-resources.svg?branch=master" style="max-width:100%;"></a>
+	<a href="https://travis-ci.org/felipeorlando/ror-resources"><img src="https://api.travis-ci.org/felipeorlando/ror-resources.svg?branch=master" alt="Build Status" style="max-width:100%;"></a>
 </p>
 
 <a id="user-content-Índice" class="anchor" href="#Índice" aria-hidden="true"></a>
@@ -74,7 +74,7 @@ Título | Assunto | Formato | Preço | Idioma
 [Ruby: Aprenda a programar na linguagem mais divertida](https://www.casadocodigo.com.br/products/livro-ruby) | Ruby | E-book e Físico | :moneybag: | Português
 [Refatorando com padrões de projeto: Um guia em Ruby](https://www.casadocodigo.com.br/products/livro-refatoracao-ruby) | Ruby | E-book e Físico | :moneybag: | Português
 [Eloquent Ruby](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104) | Ruby | E-book e Físico | :moneybag: | Inglês
-[Ruby Cookbook](http://www.amazon.com/Ruby-Cookbook-Lucas-Carlson/dp/1449373712?tag=jhu-ruby-coursera-20) | Ruby | Físico | :moneybag: | Inglês
+[Ruby Cookbook](http://www.amazon.com/Ruby-Cookbook-Lucas-Carlson/dp/1449373712) | Ruby | Físico | :moneybag: | Inglês
 [Head First Ruby](http://shop.oreilly.com/product/9780596803995.do) | Ruby | Físico | :moneybag: | Inglês
 [Metaprogramming Ruby 2](https://pragprog.com/book/ppmetr2/metaprogramming-ruby) | Ruby | E-book e Físico | :moneybag: | Inglês
 [Programming Ruby](https://pragprog.com/book/ruby4/programming-ruby-1-9-2-0) | Ruby | E-book e Físico | :moneybag: | Inglês
