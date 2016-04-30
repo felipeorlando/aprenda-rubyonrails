@@ -103,6 +103,7 @@ Blog | Principal(is) Autor(es) | Idioma
 [Treehouse Blog](http://blog.teamtreehouse.com) | Treehouse Team | Inglês
 [Thoughtbot Blog](https://robots.thoughtbot.com) | Thoughtbot Team | Inglês
 [Campus Code](http://blog.campuscode.com.br) | Campus Code Team | Português
+[Ship It](http://shipit.resultadosdigitais.com.br) | Resultados Digitais Team | Português
 
 [Ir para o índice](#Índice)
 
