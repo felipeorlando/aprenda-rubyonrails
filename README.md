@@ -103,6 +103,7 @@ Blog | Principal(is) Autor(es) | Idioma
 [Treehouse Blog](http://blog.teamtreehouse.com) | Treehouse Team | Inglês
 [Thoughtbot Blog](https://robots.thoughtbot.com) | Thoughtbot Team | Inglês
 [Campus Code](http://blog.campuscode.com.br) | Campus Code Team | Português
+[Ship It](http://shipit.resultadosdigitais.com.br) | Resultados Digitais Team | Português
 
 [Ir para o índice](#Índice)
 
@@ -141,6 +142,7 @@ Nome do Evento | Região Realizada
 [Ruby on Rio](http://rubyonrio.com) | Rio de Janeiro
 [Tropical Ruby](http://tropicalrb.com) | Porto de Galinhas
 [Ruby on Rails BH](http://www.meetup.com/pt-BR/Ruby-On-Rails-BH/) | Belo Horizonte
+[Floripa On Rails](http://floripaonrails.com.br) | Florianópolis
 
 [Ir para o índice](#Índice)
 
