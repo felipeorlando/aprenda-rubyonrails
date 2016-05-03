@@ -104,6 +104,7 @@ Blog | Principal(is) Autor(es) | Idioma
 [Thoughtbot Blog](https://robots.thoughtbot.com) | Thoughtbot Team | Inglês
 [Campus Code](http://blog.campuscode.com.br) | Campus Code Team | Português
 [Ship It](http://shipit.resultadosdigitais.com.br) | Resultados Digitais Team | Português
+[Ricardo Silva](https://medium.com/@ricardo.b.silva13) | Ricardo Silva | Português
 
 [Ir para o índice](#Índice)
 
