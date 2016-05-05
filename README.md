@@ -106,6 +106,7 @@ Blog | Principal(is) Autor(es) | Idioma
 [Campus Code](http://blog.campuscode.com.br) | Campus Code Team | Português
 [Ship It](http://shipit.resultadosdigitais.com.br) | Resultados Digitais Team | Português
 [Ricardo Silva](https://medium.com/@ricardo.b.silva13) | Ricardo Silva | Português
+[Airbnb Nerds](http://nerds.airbnb.com) | Airbnb Team | Inglês
 
 [Ir para o índice](#Índice)
 
