@@ -172,7 +172,7 @@ Nome do Feed | Idioma
 ## :sound: Podcasts
 Nome do Podcast | Idioma
 :-- | :--:
-[Ruby Rogues](https://devchat.tv/ruby-rogues/) | Inglês
+[Ruby Rogues](https://devchat.tv/ruby-rogues) | Inglês
 [Ruby5](https://ruby5.codeschool.com/) | Inglês
 [Ruby on Rails Podcast](http://5by5.tv/rubyonrails) | Inglês
 
