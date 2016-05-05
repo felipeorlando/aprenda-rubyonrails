@@ -89,6 +89,7 @@ Título | Assunto | Formato | Preço | Idioma
 [RSpec: Crie especificações executáveis em Ruby](https://www.casadocodigo.com.br/products/livro-rspec) | Testes | E-book e Físico | :moneybag: | Português
 [Everyday Rails Testing with RSpec](https://leanpub.com/everydayrailsrspec) | Testes | E-book | :moneybag: | Inglês
 [Practical Object Oriented Design in Ruby](http://www.poodr.com/) | Ruby | E-book e Físico | :moneybag: | Inglês
+[Playbook Written by thoughtbot](https://playbook.thoughtbot.com/) | Full-stack | E-book | :free: | Inglês
 
 [Ir para o índice](#Índice)
 
