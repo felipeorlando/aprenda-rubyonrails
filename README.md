@@ -61,6 +61,7 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [Desenvolvimento de Aplicativos Web](https://www.coursera.org/course/webapplications) | The University of New Mexico | :large_orange_diamond: | Full-Stack | :moneybag:
 [Rails Courses](https://thinkster.io/topics/rails) | Thinkster | :large_orange_diamond: | Full-Stack | :moneybag:
 [Full-Stack Developer](http://www.campuscode.com.br) | Campus Code | :green_heart: | Full-Stack | :moneybag:
+[Ruby Programming](https://www.udacity.com/course/ruby-programming-nanodegree--nd010) | Udacity | :green_heart: | Ruby | :moneybag:
 
 [Ir para o índice](#Índice)
 
