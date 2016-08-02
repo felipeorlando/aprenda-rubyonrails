@@ -12,14 +12,14 @@
 
 <a id="user-content-Índice" class="anchor" href="#Índice" aria-hidden="true"></a>
 <p align="center">
-	<a href="#mortar_board-cursos">Cursos</a> • 
-	<a href="#book-livros">Livros</a> • 
-	<a href="#newspaper-blogs">Blogs</a> • 
-	<a href="#video_camera-palestras-v%C3%ADdeos">Palestras (vídeos)</a> • 
-	<a href="#computer-screencasts">Screencasts</a> • 
-	<a href="#eventos-ativos">Eventos ativos</a> • 
-	<a href="#speech_balloon-comunidades">Comunidades</a> • 
-	<a href="#paperclip-feeds">Feeds</a> • 
+	<a href="#mortar_board-cursos">Cursos</a> •
+	<a href="#book-livros">Livros</a> •
+	<a href="#newspaper-blogs">Blogs</a> •
+	<a href="#video_camera-palestras-v%C3%ADdeos">Palestras (vídeos)</a> •
+	<a href="#computer-screencasts">Screencasts</a> •
+	<a href="#eventos-ativos">Eventos ativos</a> •
+	<a href="#speech_balloon-comunidades">Comunidades</a> •
+	<a href="#paperclip-feeds">Feeds</a> •
 	<a href="#sound-podcasts">Podcasts</a>
 </p>
 
@@ -58,6 +58,7 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [Become a Rails Developer](https://pt.coursera.org/specializations/ruby-on-rails) | Johns Hopkins University | :red_circle: | Full-Stack | :moneybag:
 [RubyCoach](http://www.rubycoach.com.br/jumpstart-inscricoes-encerradas.html) | RubyCoach | :large_orange_diamond: | Full-Stack | :moneybag:
 [Vários cursos gratuítos - Udemy](https://www.udemy.com/courses/search/?pm_value=0&price=price-free&q=ruby+on+rails&ref=home&src=ukw&lang=en) | Udemy | :green_heart: | Full-Stack | :free:
+[Ruby On rails - Curso Completo - Udemy](https://www.udemy.com/rubyonrails/)| Udemy | :green_heart: | Full-Stack | :moneybag:
 [Desenvolvimento de Aplicativos Web](https://www.coursera.org/course/webapplications) | The University of New Mexico | :large_orange_diamond: | Full-Stack | :moneybag:
 [Rails Courses](https://thinkster.io/topics/rails) | Thinkster | :large_orange_diamond: | Full-Stack | :moneybag:
 [Full-Stack Developer](http://www.campuscode.com.br) | Campus Code | :green_heart: | Full-Stack | :moneybag:
