@@ -37,7 +37,6 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [Ruby (em pt-BR)](https://www.codecademy.com/pt-BR/learn/ruby) | Codecademy | :green_heart: | Ruby | :free:
 [Ruby Bits](https://www.codeschool.com/courses/ruby-bits) | Code School | :large_orange_diamond: | Ruby | :moneybag:
 [Ruby Bits Part 2](https://www.codeschool.com/courses/ruby-bits-part-2) | Code School | :large_orange_diamond: | Ruby | :moneybag:
-[Ruby Monk](https://rubymonk.com/) | C42 Engineering | :large_orange_diamond: | Ruby | :free:
 [Learn Ruby on Rails](https://www.codecademy.com/pt-BR/learn/learn-rails) | Codecademy | :green_heart: | Rails | :free:
 [Rails for Zombies Redux](https://www.codeschool.com/courses/rails-for-zombies-redux) | Code School | :green_heart: | Rails | :free:
 [Rails for Zombies 2](https://www.codeschool.com/courses/rails-for-zombies-2) | Code School | :green_heart: | Rails | :moneybag:
