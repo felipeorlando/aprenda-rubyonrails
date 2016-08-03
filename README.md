@@ -44,13 +44,13 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [Rails 4: Zombie Outlaws](https://www.codeschool.com/courses/rails-4-zombie-outlaws) | Code School | :large_orange_diamond: | Rails | :moneybag:
 [Surviving APIs with Rails](https://www.codeschool.com/courses/surviving-apis-with-rails) | Code School | :large_orange_diamond: | Rails | :moneybag:
 [Rails 4 Patterns](https://www.codeschool.com/courses/rails-4-patterns) | Code School | :large_orange_diamond: | Rails | :moneybag:
-[Intermediate Ruby on Rails](https://upcase.com/intermediate-ruby-on-rails) | Upcase | :large_orange_diamond: | Rails | :moneybag:
+[Intermediate Ruby on Rails](https://thoughtbot.com/upcase/intermediate-ruby-on-rails) | Upcase | :large_orange_diamond: | Rails | :moneybag:
 [Curso de Ruby on Rails para Iniciantes](https://www.youtube.com/playlist?list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP) | Jackson Pires | :large_orange_diamond: | Rails | :free:
-[Refactoring](https://upcase.com/refactoring) | Upcase | :red_circle: | Rails | :moneybag:
+[Refactoring](https://thoughtbot.com/upcase/refactoring) | Upcase | :red_circle: | Rails | :moneybag:
 [Rails Testing for Zombies](https://www.codeschool.com/courses/rails-testing-for-zombies) | Code School | :green_heart: | Testes | :moneybag:
 [Testing with RSpec](https://www.codeschool.com/courses/testing-with-rspec) | Code School | :green_heart: | Testes | :moneybag:
-[Testing Fundamentals](https://upcase.com/testing-fundamentals) | Upcase | :green_heart: | Testes | :moneybag:
-[Test Doubles](https://upcase.com/test-doubles) | Upcase | :large_orange_diamond: | Testes | :moneybag:
+[Testing Fundamentals](https://thoughtbot.com/upcase/testing-fundamentals) | Upcase | :green_heart: | Testes | :moneybag:
+[Test Doubles](https://thoughtbot.com/upcase/test-doubles) | Upcase | :large_orange_diamond: | Testes | :moneybag:
 [Discover TDD](http://www.blackbytes.info/discover-tdd/) | Black Bytes | :large_orange_diamond: | Testes | :free:
 [Rails Development](https://teamtreehouse.com/tracks/rails-development) | Treehouse | :green_heart: | Full-Stack | :moneybag:
 [Começando com Ruby on Rails (em pt-BR)](http://howtocode.com.br/cursos/comecando-com-ruby-on-rails) | How to Code | :large_orange_diamond: | Full-Stack | :moneybag:
@@ -59,7 +59,7 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [RubyCoach](http://www.rubycoach.com.br/jumpstart-inscricoes-encerradas.html) | RubyCoach | :large_orange_diamond: | Full-Stack | :moneybag:
 [Vários cursos gratuítos - Udemy](https://www.udemy.com/courses/search/?pm_value=0&price=price-free&q=ruby+on+rails&ref=home&src=ukw&lang=en) | Udemy | :green_heart: | Full-Stack | :free:
 [Ruby On rails - Curso Completo - Udemy](https://www.udemy.com/rubyonrails/)| Udemy | :green_heart: | Full-Stack | :moneybag:
-[Desenvolvimento de Aplicativos Web](https://www.coursera.org/course/webapplications) | The University of New Mexico | :large_orange_diamond: | Full-Stack | :moneybag:
+[Desenvolvimento de Aplicativos Web](https://www.coursera.org/learn/web-app) | The University of New Mexico | :large_orange_diamond: | Full-Stack | :moneybag:
 [Rails Courses](https://thinkster.io/topics/rails) | Thinkster | :large_orange_diamond: | Full-Stack | :moneybag:
 [Full-Stack Developer](http://www.campuscode.com.br) | Campus Code | :green_heart: | Full-Stack | :moneybag:
 
@@ -90,7 +90,7 @@ Título | Assunto | Formato | Preço | Idioma
 [RSpec: Crie especificações executáveis em Ruby](https://www.casadocodigo.com.br/products/livro-rspec) | Testes | E-book e Físico | :moneybag: | Português
 [Everyday Rails Testing with RSpec](https://leanpub.com/everydayrailsrspec) | Testes | E-book | :moneybag: | Inglês
 [Practical Object Oriented Design in Ruby](http://www.poodr.com/) | Ruby | E-book e Físico | :moneybag: | Inglês
-[Playbook Written by thoughtbot](https://playbook.thoughtbot.com/) | Full-stack | E-book | :free: | Inglês
+[Playbook Written by thoughtbot](https://thoughtbot.com/playbook) | Full-stack | E-book | :free: | Inglês
 
 [Ir para o índice](#Índice)
 
