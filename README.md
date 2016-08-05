@@ -107,6 +107,7 @@ Blog | Principal(is) Autor(es) | Idioma
 [Ship It](http://shipit.resultadosdigitais.com.br) | Resultados Digitais Team | Português
 [Ricardo Silva](https://medium.com/@ricardo.b.silva13) | Ricardo Silva | Português
 [Airbnb Nerds](http://nerds.airbnb.com) | Airbnb Team | Inglês
+[Viget Blog](https://www.viget.com/articles/category/code) | Viget Team | Inglês
 
 [Ir para o índice](#Índice)
 
