@@ -101,12 +101,14 @@ Blog | Principal(is) Autor(es) | Idioma
 [Blog Plataformatec](http://blog.plataformatec.com.br) | José Valim e Hugo Baraúna | Português
 [Marcos Brizeno](https://brizeno.wordpress.com) | Marcos Brizeno | Português
 [Akita on Rails](http://www.akitaonrails.com/) | Fabio Akita | Português
-[Treehouse Blog](http://blog.teamtreehouse.com) | Treehouse Team | Inglês
-[Thoughtbot Blog](https://robots.thoughtbot.com) | Thoughtbot Team | Inglês
 [Campus Code](http://blog.campuscode.com.br) | Campus Code Team | Português
 [Ship It](http://shipit.resultadosdigitais.com.br) | Resultados Digitais Team | Português
 [Ricardo Silva](https://medium.com/@ricardo.b.silva13) | Ricardo Silva | Português
+[Signal v. Noise (Basecamp)](https://signalvnoise.com/programming) | David Heinemeier Hansson (Rails Creator) | Inglês
+[Treehouse Blog](http://blog.teamtreehouse.com) | Treehouse Team | Inglês
+[Thoughtbot Blog](https://robots.thoughtbot.com) | Thoughtbot Team | Inglês
 [Airbnb Nerds](http://nerds.airbnb.com) | Airbnb Team | Inglês
+[RichOnRails](https://richonrails.com/) | Community | Inglês
 [Viget Blog](https://www.viget.com/articles/category/code) | Viget Team | Inglês
 
 [Ir para o índice](#Índice)
