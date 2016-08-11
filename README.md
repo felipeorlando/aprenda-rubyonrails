@@ -169,6 +169,7 @@ Nome do Feed | Idioma
 [Ruby Flow](http://www.rubyflow.com/) | Inglês
 [Ruby Daily](http://paper.li/f-1364472250) | Inglês
 [Awesome Ruby](http://awesome-ruby.com) | Inglês
+[#RubyDrops](https://rubydrops.ongoodbits.com/) | Inglês
 
 [Ir para o índice](#Índice)
 
