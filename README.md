@@ -61,6 +61,8 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [Desenvolvimento de Aplicativos Web](https://www.coursera.org/learn/web-app) | The University of New Mexico | :large_orange_diamond: | Full-Stack | :moneybag:
 [Rails Courses](https://thinkster.io/topics/rails) | Thinkster | :large_orange_diamond: | Full-Stack | :moneybag:
 [Full-Stack Developer](http://www.campuscode.com.br) | Campus Code | :green_heart: | Full-Stack | :moneybag:
+[Agile Development Using Ruby on Rails - Basics](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-1x) | Berkeley University of California | :green_heart: | Full-Stack | :moneybag:
+[Agile Development Using Ruby on Rails - Advanced](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-2x) | Berkeley University of California | :large_orange_diamond: | Full-Stack | :moneybag:
 
 [Ir para o índice](#Índice)
 
