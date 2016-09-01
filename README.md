@@ -131,7 +131,7 @@ Título | Evento | Assuntos
 ## :computer: Screencasts
 Título | Assunto | Idioma
 :-- | :-- | :--
-[Ruby Tapas](http://www.rubytapas.com/) | Ruby on Rails | Inglês
+[Ruby Tapas](https://www.rubytapas.com/) | Ruby on Rails | Inglês
 [Ruby Off Rails](http://rubyoffrails.com/) | Ruby | Inglês
 [Go Rails](https://gorails.com) | Ruby on Rails | Inglês
 [Mackenzie Child](https://mackenziechild.me/) | Ruby on Rails | Inglês
@@ -145,7 +145,7 @@ Nome do Evento | Região Realizada
 :-- | :--
 [Rails Girls](http://railsgirls.com) | São Paulo, Porto Alegre, Rio de Janeiro, Belo Horizonte, Recife, Maceió e Salvador
 [Rupy](http://rupy.com.br) | São José dos Campos e Campinas
-[GURU-SP](http://gurusp.org) | São Paulo
+[GURU-SP](https://gurusp.org) | São Paulo
 [Rubyconf](http://www.rubyconf.com.br) | São Paulo
 [Ruby on Rio](http://rubyonrio.com) | Rio de Janeiro
 [Tropical Ruby](http://tropicalrb.com) | Porto de Galinhas
@@ -183,3 +183,18 @@ Nome do Podcast | Idioma
 [Ruby on Rails Podcast](http://5by5.tv/rubyonrails) | Inglês
 
 [Ir para o índice](#Índice)
+
+## :bust_in_silhouette: Rubistas
+Nome | Github
+:-- | :--:
+Yukihiro "Matz" Matsumoto | [mattn](https://github.com/mattn)
+David Heinemeier Hansson | [dhh](https://github.com/dhh)
+Ben Orenstein | [r00k](https://github.com/r00k)
+Aaron Patterson| [tenderlove](https://github.com/tenderlove)
+Avdi Grimm | [avdi](https://github.com/avdi)
+José Valim | [josevalim](https://github.com/josevalim)
+Akira Amatsuda | [amatsuda](https://github.com/amatsuda)
+Yehuda Katz | [wycats](https://github.com/wycats)
+Sandi Metz | [skmetz](https://github.com/skmetz)
+Joe Ferris | [jferris](https://github.com/jferris)
+Chris Toomey | [christoomey](https://github.com/christoomey)
