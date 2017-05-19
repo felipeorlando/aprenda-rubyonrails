@@ -55,7 +55,6 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [Começando com Ruby on Rails (em pt-BR)](http://howtocode.com.br/cursos/comecando-com-ruby-on-rails) | How to Code | :large_orange_diamond: | Full-Stack | :moneybag:
 [Trilha RoR (em pt-BR)](https://www.alura.com.br/cursos-online-programacao) | Alura | :large_orange_diamond: | Full-Stack | :moneybag:
 [Become a Rails Developer](https://pt.coursera.org/specializations/ruby-on-rails) | Johns Hopkins University | :red_circle: | Full-Stack | :moneybag:
-[RubyCoach](http://www.rubycoach.com.br/jumpstart-inscricoes-encerradas.html) | RubyCoach | :large_orange_diamond: | Full-Stack | :moneybag:
 [Vários cursos gratuítos - Udemy](https://www.udemy.com/courses/search/?pm_value=0&price=price-free&q=ruby+on+rails&ref=home&src=ukw&lang=en) | Udemy | :green_heart: | Full-Stack | :free:
 [Ruby On rails - Curso Completo - Udemy](https://www.udemy.com/rubyonrails/)| Udemy | :green_heart: | Full-Stack | :moneybag:
 [Desenvolvimento de Aplicativos Web](https://www.coursera.org/learn/web-app) | The University of New Mexico | :large_orange_diamond: | Full-Stack | :moneybag:
@@ -131,7 +130,7 @@ Título | Evento | Assuntos
 ## :computer: Screencasts
 Título | Assunto | Idioma
 :-- | :-- | :--
-[Ruby Tapas](http://www.rubytapas.com/) | Ruby on Rails | Inglês
+[Ruby Tapas](https://www.rubytapas.com/) | Ruby on Rails | Inglês
 [Ruby Off Rails](http://rubyoffrails.com/) | Ruby | Inglês
 [Go Rails](https://gorails.com) | Ruby on Rails | Inglês
 [Mackenzie Child](https://mackenziechild.me/) | Ruby on Rails | Inglês
@@ -145,7 +144,7 @@ Nome do Evento | Região Realizada
 :-- | :--
 [Rails Girls](http://railsgirls.com) | São Paulo, Porto Alegre, Rio de Janeiro, Belo Horizonte, Recife, Maceió e Salvador
 [Rupy](http://rupy.com.br) | São José dos Campos e Campinas
-[GURU-SP](http://gurusp.org) | São Paulo
+[GURU-SP](https://gurusp.org) | São Paulo
 [Rubyconf](http://www.rubyconf.com.br) | São Paulo
 [Ruby on Rio](http://rubyonrio.com) | Rio de Janeiro
 [Tropical Ruby](http://tropicalrb.com) | Porto de Galinhas
@@ -183,3 +182,18 @@ Nome do Podcast | Idioma
 [Ruby on Rails Podcast](http://5by5.tv/rubyonrails) | Inglês
 
 [Ir para o índice](#Índice)
+
+## :bust_in_silhouette: Rubistas
+Nome | Github
+:-- | :--:
+Yukihiro "Matz" Matsumoto | [mattn](https://github.com/mattn)
+David Heinemeier Hansson | [dhh](https://github.com/dhh)
+Ben Orenstein | [r00k](https://github.com/r00k)
+Aaron Patterson| [tenderlove](https://github.com/tenderlove)
+Avdi Grimm | [avdi](https://github.com/avdi)
+José Valim | [josevalim](https://github.com/josevalim)
+Akira Amatsuda | [amatsuda](https://github.com/amatsuda)
+Yehuda Katz | [wycats](https://github.com/wycats)
+Sandi Metz | [skmetz](https://github.com/skmetz)
+Joe Ferris | [jferris](https://github.com/jferris)
+Chris Toomey | [christoomey](https://github.com/christoomey)
