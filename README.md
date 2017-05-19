@@ -201,7 +201,7 @@ Chris Toomey | [christoomey](https://github.com/christoomey)
 [Ir para o índice](#Índice)
 
 <h6 align="center">
-	[MIT](https://github.com/felipeorlando/license/blob/master/MIT.md)
+	<a href="https://github.com/felipeorlando/license/blob/master/MIT.md">MIT</a>
 	©
 	Felipe Orlando
 </h6>
