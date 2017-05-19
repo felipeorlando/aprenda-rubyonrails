@@ -199,3 +199,9 @@ Joe Ferris | [jferris](https://github.com/jferris)
 Chris Toomey | [christoomey](https://github.com/christoomey)
 
 [Ir para o índice](#Índice)
+
+<h6 align="center">
+	[MIT](https://github.com/felipeorlando/license/blob/master/MIT.md)
+	©
+	Felipe Orlando
+</h6>
