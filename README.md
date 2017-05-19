@@ -7,7 +7,7 @@
 <p align="center">Central de conhecimento sobre Ruby, Rails e afins.</p>
 
 <p align="center">
-	[![Build Status](https://travis-ci.org/felipeorlando/aprenda-rubyonrails.svg?branch=master)](https://travis-ci.org/felipeorlando/aprenda-rubyonrails)
+	<img src="https://travis-ci.org/felipeorlando/aprenda-rubyonrails.svg?branch=master">
 </p>
 
 <a id="user-content-Índice" class="anchor" href="#Índice" aria-hidden="true"></a>
