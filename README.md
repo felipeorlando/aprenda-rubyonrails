@@ -1,13 +1,13 @@
 <p align="center">
-	<img src="https://raw.githubusercontent.com/felipeorlando/ror-resources/master/cover.jpg" alt="ROR Resources Cover" style="max-width:100%;">
+	<img src="https://raw.githubusercontent.com/felipeorlando/aprenda-rubyonrails/master/cover.jpg" alt="Aprenda Ruby on Rails" style="max-width:100%;">
 </p>
 
-<h1 align="center">Recursos Ruby e Rails</h1>
+<h1 align="center">Aprenda Ruby on Rails</h1>
 
-<p align="center">Central de conhecimento sobre Ruby, Ruby on Rails e afins.</p>
+<p align="center">Central de conhecimento sobre Ruby, Rails e afins.</p>
 
 <p align="center">
-	<a href="https://travis-ci.org/felipeorlando/ror-resources"><img src="https://api.travis-ci.org/felipeorlando/ror-resources.svg?branch=master" alt="Build Status" style="max-width:100%;"></a>
+	[![Build Status](https://travis-ci.org/felipeorlando/aprenda-rubyonrails.svg?branch=master)](https://travis-ci.org/felipeorlando/aprenda-rubyonrails)
 </p>
 
 <a id="user-content-Índice" class="anchor" href="#Índice" aria-hidden="true"></a>
@@ -15,12 +15,13 @@
 	<a href="#mortar_board-cursos">Cursos</a> •
 	<a href="#book-livros">Livros</a> •
 	<a href="#newspaper-blogs">Blogs</a> •
-	<a href="#video_camera-palestras-v%C3%ADdeos">Palestras (vídeos)</a> •
+	<a href="#video_camera-palestras-v%C3%ADdeos">Palestras</a> •
 	<a href="#computer-screencasts">Screencasts</a> •
 	<a href="#eventos-ativos">Eventos ativos</a> •
 	<a href="#speech_balloon-comunidades">Comunidades</a> •
 	<a href="#paperclip-feeds">Feeds</a> •
-	<a href="#sound-podcasts">Podcasts</a>
+	<a href="#sound-podcasts">Podcasts</a> •
+	<a href="#bust_in_silhouette-rubistas">Rubistas</a>
 </p>
 
 ## :mortar_board: Cursos
@@ -34,10 +35,10 @@
 Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 :-- | :-- | :--: | :--: | :--:
 [Try Ruby](https://www.codeschool.com/courses/try-ruby) | Code School | :green_heart: | Ruby | :free:
-[Ruby (em pt-BR)](https://www.codecademy.com/pt-BR/learn/ruby) | Codecademy | :green_heart: | Ruby | :free:
+[Ruby (em pt-BR)](https://www.codecademy.com/learn/ruby) | Codecademy | :green_heart: | Ruby | :free:
 [Ruby Bits](https://www.codeschool.com/courses/ruby-bits) | Code School | :large_orange_diamond: | Ruby | :moneybag:
 [Ruby Bits Part 2](https://www.codeschool.com/courses/ruby-bits-part-2) | Code School | :large_orange_diamond: | Ruby | :moneybag:
-[Learn Ruby on Rails](https://www.codecademy.com/pt-BR/learn/learn-rails) | Codecademy | :green_heart: | Rails | :free:
+[Learn Ruby on Rails](https://www.codecademy.com/learn/learn-rails) | Codecademy | :green_heart: | Rails | :free:
 [Rails for Zombies Redux](https://www.codeschool.com/courses/rails-for-zombies-redux) | Code School | :green_heart: | Rails | :free:
 [Rails for Zombies 2](https://www.codeschool.com/courses/rails-for-zombies-2) | Code School | :green_heart: | Rails | :moneybag:
 [Rails 4: Zombie Outlaws](https://www.codeschool.com/courses/rails-4-zombie-outlaws) | Code School | :large_orange_diamond: | Rails | :moneybag:
@@ -149,7 +150,6 @@ Nome do Evento | Região Realizada
 [Ruby on Rio](http://rubyonrio.com) | Rio de Janeiro
 [Tropical Ruby](http://tropicalrb.com) | Porto de Galinhas
 [Ruby on Rails BH](http://www.meetup.com/pt-BR/Ruby-On-Rails-BH/) | Belo Horizonte
-[Floripa On Rails](http://floripaonrails.com.br) | Florianópolis
 
 [Ir para o índice](#Índice)
 
@@ -197,3 +197,5 @@ Yehuda Katz | [wycats](https://github.com/wycats)
 Sandi Metz | [skmetz](https://github.com/skmetz)
 Joe Ferris | [jferris](https://github.com/jferris)
 Chris Toomey | [christoomey](https://github.com/christoomey)
+
+[Ir para o índice](#Índice)
