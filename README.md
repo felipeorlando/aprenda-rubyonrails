@@ -38,33 +38,32 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 :-- | :-- | :--: | :--: | :--:
 [Try Ruby](https://www.codeschool.com/courses/try-ruby) | Code School | :green_heart: | Ruby | :free:
 [Ruby (em pt-BR)](https://www.codecademy.com/learn/ruby) | Codecademy | :green_heart: | Ruby | :free:
-[Ruby Bits](https://www.codeschool.com/courses/ruby-bits) | Code School | :large_orange_diamond: | Ruby | :moneybag:
-[Ruby Bits Part 2](https://www.codeschool.com/courses/ruby-bits-part-2) | Code School | :large_orange_diamond: | Ruby | :moneybag:
 [Learn Ruby on Rails](https://www.codecademy.com/learn/learn-rails) | Codecademy | :green_heart: | Rails | :free:
 [Rails for Zombies Redux](https://www.codeschool.com/courses/rails-for-zombies-redux) | Code School | :green_heart: | Rails | :free:
 [Rails for Zombies 2](https://www.codeschool.com/courses/rails-for-zombies-2) | Code School | :green_heart: | Rails | :moneybag:
+[Rails Testing for Zombies](https://www.codeschool.com/courses/rails-testing-for-zombies) | Code School | :green_heart: | Testes | :moneybag:
+[Testing with RSpec](https://www.codeschool.com/courses/testing-with-rspec) | Code School | :green_heart: | Testes | :moneybag:
+[Testing Fundamentals](https://thoughtbot.com/upcase/testing-fundamentals) | Upcase | :green_heart: | Testes | :moneybag:
+[Rails Development](https://teamtreehouse.com/tracks/rails-development) | Treehouse | :green_heart: | Full-Stack | :moneybag:
+[Ruby On rails - Curso Completo - Udemy](https://www.udemy.com/rubyonrails/)| Udemy | :green_heart: | Full-Stack | :moneybag:
+[Full-Stack Developer](http://www.campuscode.com.br) | Campus Code | :green_heart: | Full-Stack | :moneybag:
+[Agile Development Using Ruby on Rails - Basics](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-1x) | Berkeley University of California | :green_heart: | Full-Stack | :moneybag:
+[Curso de Ruby on Rails para Iniciantes](https://www.youtube.com/playlist?list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP) | Jackson Pires | :large_orange_diamond: | Rails | :free:
+[Discover TDD](http://www.blackbytes.info/discover-tdd/) | Black Bytes | :large_orange_diamond: | Testes | :free:
+[Ruby Bits](https://www.codeschool.com/courses/ruby-bits) | Code School | :large_orange_diamond: | Ruby | :moneybag:
+[Ruby Bits Part 2](https://www.codeschool.com/courses/ruby-bits-part-2) | Code School | :large_orange_diamond: | Ruby | :moneybag:
 [Rails 4: Zombie Outlaws](https://www.codeschool.com/courses/rails-4-zombie-outlaws) | Code School | :large_orange_diamond: | Rails | :moneybag:
 [Surviving APIs with Rails](https://www.codeschool.com/courses/surviving-apis-with-rails) | Code School | :large_orange_diamond: | Rails | :moneybag:
 [Rails 4 Patterns](https://www.codeschool.com/courses/rails-4-patterns) | Code School | :large_orange_diamond: | Rails | :moneybag:
 [Intermediate Ruby on Rails](https://thoughtbot.com/upcase/intermediate-ruby-on-rails) | Upcase | :large_orange_diamond: | Rails | :moneybag:
-[Curso de Ruby on Rails para Iniciantes](https://www.youtube.com/playlist?list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP) | Jackson Pires | :large_orange_diamond: | Rails | :free:
-[Refactoring](https://thoughtbot.com/upcase/refactoring) | Upcase | :red_circle: | Rails | :moneybag:
-[Rails Testing for Zombies](https://www.codeschool.com/courses/rails-testing-for-zombies) | Code School | :green_heart: | Testes | :moneybag:
-[Testing with RSpec](https://www.codeschool.com/courses/testing-with-rspec) | Code School | :green_heart: | Testes | :moneybag:
-[Testing Fundamentals](https://thoughtbot.com/upcase/testing-fundamentals) | Upcase | :green_heart: | Testes | :moneybag:
 [Test Doubles](https://thoughtbot.com/upcase/test-doubles) | Upcase | :large_orange_diamond: | Testes | :moneybag:
-[Discover TDD](http://www.blackbytes.info/discover-tdd/) | Black Bytes | :large_orange_diamond: | Testes | :free:
-[Rails Development](https://teamtreehouse.com/tracks/rails-development) | Treehouse | :green_heart: | Full-Stack | :moneybag:
 [Começando com Ruby on Rails (em pt-BR)](http://howtocode.com.br/cursos/comecando-com-ruby-on-rails) | How to Code | :large_orange_diamond: | Full-Stack | :moneybag:
 [Trilha RoR (em pt-BR)](https://www.alura.com.br/cursos-online-programacao) | Alura | :large_orange_diamond: | Full-Stack | :moneybag:
-[Become a Rails Developer](https://pt.coursera.org/specializations/ruby-on-rails) | Johns Hopkins University | :red_circle: | Full-Stack | :moneybag:
-[Vários cursos gratuítos - Udemy](https://www.udemy.com/courses/search/?pm_value=0&price=price-free&q=ruby+on+rails&ref=home&src=ukw&lang=en) | Udemy | :green_heart: | Full-Stack | :free:
-[Ruby On rails - Curso Completo - Udemy](https://www.udemy.com/rubyonrails/)| Udemy | :green_heart: | Full-Stack | :moneybag:
 [Desenvolvimento de Aplicativos Web](https://www.coursera.org/learn/web-app) | The University of New Mexico | :large_orange_diamond: | Full-Stack | :moneybag:
 [Rails Courses](https://thinkster.io/topics/rails) | Thinkster | :large_orange_diamond: | Full-Stack | :moneybag:
-[Full-Stack Developer](http://www.campuscode.com.br) | Campus Code | :green_heart: | Full-Stack | :moneybag:
-[Agile Development Using Ruby on Rails - Basics](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-1x) | Berkeley University of California | :green_heart: | Full-Stack | :moneybag:
 [Agile Development Using Ruby on Rails - Advanced](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-2x) | Berkeley University of California | :large_orange_diamond: | Full-Stack | :moneybag:
+[Refactoring](https://thoughtbot.com/upcase/refactoring) | Upcase | :red_circle: | Rails | :moneybag:
+[Become a Rails Developer](https://pt.coursera.org/specializations/ruby-on-rails) | Johns Hopkins University | :red_circle: | Full-Stack | :moneybag:
 
 [Ir para o índice](#Índice)
 
@@ -72,28 +71,28 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 
 Título | Assunto | Formato | Preço | Idioma
 :-- | :--: | :--: | :--: | :--:
-[Introdução à Computação: Da Lógica aos jogos com Ruby](https://www.casadocodigo.com.br/products/livro-aprendendo-computacao-ruby) | Ruby | E-book e Físico | :moneybag: | Português
 [Aprenda a programar](http://www.jmonteiro.com/aprendaaprogramar/) | Ruby | E-book e Fisico | :free: | Português
 [Conhecendo Ruby](https://leanpub.com/conhecendo-ruby) | Ruby | E-book | :free: | Português
+[Desenv. Ágil para Web com Ruby on Rails](https://www.caelum.com.br/apostila-ruby-on-rails/) | Rails | E-book | :free: | Português
+[Playbook Written by thoughtbot](https://thoughtbot.com/playbook) | Full-stack | E-book | :free: | Inglês
+[Introdução à Computação: Da Lógica aos jogos com Ruby](https://www.casadocodigo.com.br/products/livro-aprendendo-computacao-ruby) | Ruby | E-book e Físico | :moneybag: | Português
 [Ruby: Aprenda a programar na linguagem mais divertida](https://www.casadocodigo.com.br/products/livro-ruby) | Ruby | E-book e Físico | :moneybag: | Português
 [Refatorando com padrões de projeto: Um guia em Ruby](https://www.casadocodigo.com.br/products/livro-refatoracao-ruby) | Ruby | E-book e Físico | :moneybag: | Português
+[Conhecendo Rails](https://leanpub.com/conhecendo-rails) | Rails | E-book | :moneybag: | Português
+[Ruby on Rails: coloque sua aplicação web nos trilhos](https://www.casadocodigo.com.br/products/livro-ruby-on-rails)  | Rails | E-book e Físico | :moneybag: | Português
+[Test Driven Development: Teste e design no mundo real com Ruby](https://www.casadocodigo.com.br/products/livro-tdd-ruby) | Testes | E-book e Físico | :moneybag: | Português
+[Cucumber e RSpec: Construa aplicações Ruby com testes e especificações](https://www.casadocodigo.com.br/products/livro-cucumber-rspec-tdd-bdd) | Testes | E-book e Físico | :moneybag: | Português
+[RSpec: Crie especificações executáveis em Ruby](https://www.casadocodigo.com.br/products/livro-rspec) | Testes | E-book e Físico | :moneybag: | Português
 [Eloquent Ruby](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104) | Ruby | E-book e Físico | :moneybag: | Inglês
 [Ruby Cookbook](http://www.amazon.com/Ruby-Cookbook-Lucas-Carlson/dp/1449373712) | Ruby | Físico | :moneybag: | Inglês
 [Head First Ruby](http://shop.oreilly.com/product/9780596803995.do) | Ruby | Físico | :moneybag: | Inglês
 [Metaprogramming Ruby 2](https://pragprog.com/book/ppmetr2/metaprogramming-ruby) | Ruby | E-book e Físico | :moneybag: | Inglês
 [Programming Ruby](https://pragprog.com/book/ruby4/programming-ruby-1-9-2-0) | Ruby | E-book e Físico | :moneybag: | Inglês
 [The Well-Grounded Rubyist](https://www.manning.com/books/the-well-grounded-rubyist-second-edition) | Ruby | E-book e Físico | :moneybag: | Inglês
-[Desenv. Ágil para Web com Ruby on Rails](https://www.caelum.com.br/apostila-ruby-on-rails/) | Rails | E-book | :free: | Português
-[Conhecendo Rails](https://leanpub.com/conhecendo-rails) | Rails | E-book | :moneybag: | Português
 [Agile Web Development with Rails 4](https://pragprog.com/book/rails4/agile-web-development-with-rails-4) | Rails | E-book e Físico | :moneybag: | Inglês
-[Ruby on Rails: coloque sua aplicação web nos trilhos](https://www.casadocodigo.com.br/products/livro-ruby-on-rails)  | Rails | E-book e Físico | :moneybag: | Português
 [Crafting Rails 4 Applications](https://pragprog.com/book/jvrails2/crafting-rails-4-applications) | Rails | E-book e Físico | :moneybag: | Inglês
-[Test Driven Development: Teste e design no mundo real com Ruby](https://www.casadocodigo.com.br/products/livro-tdd-ruby) | Testes | E-book e Físico | :moneybag: | Português
-[Cucumber e RSpec: Construa aplicações Ruby com testes e especificações](https://www.casadocodigo.com.br/products/livro-cucumber-rspec-tdd-bdd) | Testes | E-book e Físico | :moneybag: | Português
-[RSpec: Crie especificações executáveis em Ruby](https://www.casadocodigo.com.br/products/livro-rspec) | Testes | E-book e Físico | :moneybag: | Português
 [Everyday Rails Testing with RSpec](https://leanpub.com/everydayrailsrspec) | Testes | E-book | :moneybag: | Inglês
 [Practical Object Oriented Design in Ruby](http://www.poodr.com/) | Ruby | E-book e Físico | :moneybag: | Inglês
-[Playbook Written by thoughtbot](https://thoughtbot.com/playbook) | Full-stack | E-book | :free: | Inglês
 
 [Ir para o índice](#Índice)
 
