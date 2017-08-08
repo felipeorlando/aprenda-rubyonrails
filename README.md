@@ -132,10 +132,12 @@ Título | Evento | Assuntos
 ## :computer: Screencasts
 Título | Assunto | Idioma
 :-- | :-- | :--
-[Ruby Tapas](https://www.rubytapas.com/) | Ruby on Rails | Inglês
 [Ruby Off Rails](http://rubyoffrails.com/) | Ruby | Inglês
+[Ruby Tapas](https://www.rubytapas.com/) | Ruby on Rails | Inglês
 [Go Rails](https://gorails.com) | Ruby on Rails | Inglês
-[Mackenzie Child](https://mackenziechild.me/) | Ruby on Rails | Inglês
+[Rails Casts](http://railscasts.com/) | Ruby on Rails | Inglês
+[Drifting Ruby](https://www.driftingruby.com/) | Ruby on Rails | Inglês
+[Mackenzie Child](https://www.youtube.com/playlist?list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-) | Ruby on Rails | Inglês
 
 [Ir para o índice](#Índice)
 
