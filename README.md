@@ -107,6 +107,7 @@ Blog | Principal(is) Autor(es) | Idioma
 [Campus Code](http://blog.campuscode.com.br) | Campus Code Team | Português
 [Ship It](http://shipit.resultadosdigitais.com.br) | Resultados Digitais Team | Português
 [Ricardo Silva](https://medium.com/@ricardo.b.silva13) | Ricardo Silva | Português
+[One Bit Code](http://onebitcode.com/) | Leonardo Scorza | Português
 [Signal v. Noise (Basecamp)](https://signalvnoise.com/programming) | David Heinemeier Hansson (Rails Creator) | Inglês
 [Treehouse Blog](http://blog.teamtreehouse.com) | Treehouse Team | Inglês
 [Thoughtbot Blog](https://robots.thoughtbot.com) | Thoughtbot Team | Inglês
