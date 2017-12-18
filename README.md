@@ -73,6 +73,7 @@ Título | Assunto | Formato | Preço | Idioma
 :-- | :--: | :--: | :--: | :--:
 [Aprenda a programar](http://www.jmonteiro.com/aprendaaprogramar/) | Ruby | E-book e Fisico | :free: | Português
 [Conhecendo Ruby](https://leanpub.com/conhecendo-ruby) | Ruby | E-book | :free: | Português
+[O Guia (comovente) de Ruby do Why](http://why.carlosbrando.com/) | Ruby | E-book | :free: | Português
 [Desenv. Ágil para Web com Ruby on Rails](https://www.caelum.com.br/apostila-ruby-on-rails/) | Rails | E-book | :free: | Português
 [Playbook Written by thoughtbot](https://thoughtbot.com/playbook) | Full-stack | E-book | :free: | Inglês
 [Introdução à Computação: Da Lógica aos jogos com Ruby](https://www.casadocodigo.com.br/products/livro-aprendendo-computacao-ruby) | Ruby | E-book e Físico | :moneybag: | Português
