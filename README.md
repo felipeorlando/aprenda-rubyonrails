@@ -94,6 +94,9 @@ Título | Assunto | Formato | Preço | Idioma
 [Crafting Rails 4 Applications](https://pragprog.com/book/jvrails2/crafting-rails-4-applications) | Rails | E-book e Físico | :moneybag: | Inglês
 [Everyday Rails Testing with RSpec](https://leanpub.com/everydayrailsrspec) | Testes | E-book | :moneybag: | Inglês
 [Practical Object Oriented Design in Ruby](http://www.poodr.com/) | Ruby | E-book e Físico | :moneybag: | Inglês
+[Effective Ruby](https://www.amazon.com/gp/product/0133846970) | Ruby | E-book | :moneybag: | Inglês
+[99 Bottles of OOP](https://www.sandimetz.com/99bottles/) | Ruby | E-book | :moneybag: | Inglês
+[Learn Game Programming with Ruby](https://www.amazon.com/gp/product/1680500732) | Ruby | E-book | :moneybag: | Inglês
 
 [Ir para o índice](#Índice)
 
