@@ -45,7 +45,6 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [Testing with RSpec](https://www.codeschool.com/courses/testing-with-rspec) | Code School | :green_heart: | Testes | :moneybag:
 [Testing Fundamentals](https://thoughtbot.com/upcase/testing-fundamentals) | Upcase | :green_heart: | Testes | :moneybag:
 [Rails Development](https://teamtreehouse.com/tracks/rails-development) | Treehouse | :green_heart: | Full-Stack | :moneybag:
-[Ruby On rails - Curso Completo - Udemy](https://www.udemy.com/rubyonrails/)| Udemy | :green_heart: | Full-Stack | :moneybag:
 [Full-Stack Developer](http://www.campuscode.com.br) | Campus Code | :green_heart: | Full-Stack | :moneybag:
 [Agile Development Using Ruby on Rails - Basics](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-1x) | Berkeley University of California | :green_heart: | Full-Stack | :moneybag:
 [Curso de Ruby on Rails para Iniciantes](https://www.youtube.com/playlist?list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP) | Jackson Pires | :large_orange_diamond: | Rails | :free:
@@ -152,7 +151,6 @@ Título | Assunto | Idioma
 Nome do Evento | Região Realizada
 :-- | :--
 [Rails Girls](http://railsgirls.com) | São Paulo, Porto Alegre, Rio de Janeiro, Belo Horizonte, Recife, Maceió e Salvador
-[Rupy](http://rupy.com.br) | São José dos Campos e Campinas
 [GURU-SP](https://gurusp.org) | São Paulo
 [Rubyconf](http://www.rubyconf.com.br) | São Paulo
 [Ruby on Rio](http://rubyonrio.com) | Rio de Janeiro
@@ -173,7 +171,7 @@ Nome da Comunidade | Tipo | Idioma
 Nome do Feed | Idioma
 :-- | :--:
 [Ruby News](https://www.ruby-lang.org/en/news/) | Inglês
-[Ruby Inside](http://www.rubyinside.com/) | Inglês
+[Ruby Inside](https://medium.com/rubyinside) | Inglês
 [Ruby Weekly](http://rubyweekly.com/) | Inglês
 [Ruby Flow](http://www.rubyflow.com/) | Inglês
 [Ruby Daily](http://paper.li/f-1364472250) | Inglês
