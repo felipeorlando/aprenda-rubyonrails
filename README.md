@@ -47,6 +47,7 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [Rails Development](https://teamtreehouse.com/tracks/rails-development) | Treehouse | :green_heart: | Full-Stack | :moneybag:
 [Full-Stack Developer](http://www.campuscode.com.br) | Campus Code | :green_heart: | Full-Stack | :moneybag:
 [Agile Development Using Ruby on Rails - Basics](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-1x) | Berkeley University of California | :green_heart: | Full-Stack | :moneybag:
+[CPLC - Curso de Programação (em pt-BR)](https://www.lucascaton.com.br/curso) | Lucas Caton | :green_heart: | Full-Stack | :moneybag:
 [Curso de Ruby on Rails para Iniciantes](https://www.youtube.com/playlist?list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP) | Jackson Pires | :large_orange_diamond: | Rails | :free:
 [Discover TDD](http://www.blackbytes.info/discover-tdd/) | Black Bytes | :large_orange_diamond: | Testes | :free:
 [Ruby Bits](https://www.codeschool.com/courses/ruby-bits) | Code School | :large_orange_diamond: | Ruby | :moneybag:
@@ -111,6 +112,7 @@ Blog | Principal(is) Autor(es) | Idioma
 [Ship It](http://shipit.resultadosdigitais.com.br) | Resultados Digitais Team | Português
 [Ricardo Silva](https://medium.com/@ricardo.b.silva13) | Ricardo Silva | Português
 [One Bit Code](http://onebitcode.com/) | Leonardo Scorza | Português
+[Lucas Caton](https://www.lucascaton.com.br/) | Lucas Caton | Português
 [Signal v. Noise (Basecamp)](https://signalvnoise.com/programming) | David Heinemeier Hansson (Rails Creator) | Inglês
 [Treehouse Blog](http://blog.teamtreehouse.com) | Treehouse Team | Inglês
 [Thoughtbot Blog](https://robots.thoughtbot.com) | Thoughtbot Team | Inglês
@@ -134,8 +136,10 @@ Título | Evento | Assuntos
 [Ir para o índice](#Índice)
 
 ## :computer: Screencasts
+
 Título | Assunto | Idioma
 :-- | :-- | :--
+[Lucas Caton](https://www.youtube.com/playlist?list=PLz4HUyGp2Iyk4tANWisKz4JfVXF8JzivN) | Ruby on Rails | Português
 [Ruby Off Rails](http://rubyoffrails.com/) | Ruby | Inglês
 [Ruby Tapas](https://www.rubytapas.com/) | Ruby on Rails | Inglês
 [Go Rails](https://gorails.com) | Ruby on Rails | Inglês
@@ -144,7 +148,6 @@ Título | Assunto | Idioma
 [Mackenzie Child](https://www.youtube.com/playlist?list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-) | Ruby on Rails | Inglês
 
 [Ir para o índice](#Índice)
-
 
 ## :circus_tent: Eventos Ativos
 
