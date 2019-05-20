@@ -167,6 +167,7 @@ Nome do Evento | Região Realizada
 Nome da Comunidade | Tipo | Idioma
 :-- | :-- | :--
 [Ruby Talk](http://www.rubytalk.net) | Chat | Português
+[Ruby Brasil](https://t.me/rubybrasil) | Chat | Português
 
 [Ir para o índice](#Índice)
 
