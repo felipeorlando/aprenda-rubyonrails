@@ -36,6 +36,9 @@
 
 Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 :-- | :-- | :--: | :--: | :--:
+[Ruby Puro](https://onebitcode.com/course/ruby-puro/) | One Bit Code | :green_heart: | Ruby | :free:
+[Code Saga](https://www.codesaga.com.br/) | Campus Code | :green_heart: | Ruby | :free:
+[Ruby Monk](https://rubymonk.com/) | Ruby Monk | :green_heart: | Ruby | :free:
 [Try Ruby](https://www.codeschool.com/courses/try-ruby) | Code School | :green_heart: | Ruby | :free:
 [Ruby (em pt-BR)](https://www.codecademy.com/learn/ruby) | Codecademy | :green_heart: | Ruby | :free:
 [Learn Ruby on Rails](https://www.codecademy.com/learn/learn-rails) | Codecademy | :green_heart: | Rails | :free:
@@ -71,6 +74,8 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 
 Título | Assunto | Formato | Preço | Idioma
 :-- | :--: | :--: | :--: | :--:
+[Ruby on Rails Tutorial(Rails 5)](https://www.railstutorial.org/book/beginning) | Rails | E-book | :free: | Inglês
+[Learn Ruby The Hard Way](https://learnrubythehardway.org/book) | Ruby | E-book | :free: | Inglês
 [Aprenda a programar](http://www.jmonteiro.com/aprendaaprogramar/) | Ruby | E-book e Fisico | :free: | Português
 [Conhecendo Ruby](https://leanpub.com/conhecendo-ruby) | Ruby | E-book | :free: | Português
 [O Guia (comovente) de Ruby do Why](http://why.carlosbrando.com/) | Ruby | E-book | :free: | Português
