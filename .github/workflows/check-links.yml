@@ -1,0 +1,26 @@
+name: Check Links
+on:
+  push:
+    branches:
+      - '*'
+      - '*/*'
+      - '**'
+
+jobs:
+  check-links: 
+    name: Check Links
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v2
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@359bebbc29cbe6c87da6bc9ea3bc930432750108
+        with:
+          ruby-version: '3.1'
+
+      - name: Install awesome_bot dependecy
+        run: gem install awesome_bot
+
+      - name: Check Links
+        run: awesome_bot README.md --allow-ssl --allow-redirect -w amazon.com,travis-ci

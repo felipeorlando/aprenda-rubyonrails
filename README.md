@@ -6,12 +6,6 @@
 
 <p align="center">Central de conhecimento sobre Ruby, Rails e afins.</p>
 
-<p align="center">
-	<a href="https://travis-ci.org/felipeorlando/aprenda-rubyonrails" target="_blank">
-		<img src="https://travis-ci.org/felipeorlando/aprenda-rubyonrails.svg?branch=master">
-	</a>
-</p>
-
 <a id="user-content-Índice" class="anchor" href="#Índice" aria-hidden="true"></a>
 <p align="center">
 	<a href="#mortar_board-cursos">Cursos</a> •
