@@ -79,9 +79,8 @@ Título | Assunto | Formato | Preço | Idioma
 [Ruby: Aprenda a programar na linguagem mais divertida](https://www.casadocodigo.com.br/products/livro-ruby) | Ruby | E-book e Físico | :moneybag: | Português
 [Refatorando com padrões de projeto: Um guia em Ruby](https://www.casadocodigo.com.br/products/livro-refatoracao-ruby) | Ruby | E-book e Físico | :moneybag: | Português
 [Conhecendo Rails](https://leanpub.com/conhecendo-rails) | Rails | E-book | :moneybag: | Português
-[Ruby on Rails: coloque sua aplicação web nos trilhos](https://www.casadocodigo.com.br/products/livro-ruby-on-rails)  | Rails | E-book e Físico | :moneybag: | Português
 [Test Driven Development: Teste e design no mundo real com Ruby](https://www.casadocodigo.com.br/products/livro-tdd-ruby) | Testes | E-book e Físico | :moneybag: | Português
-[Cucumber e RSpec: Construa aplicações Ruby com testes e especificações](https://www.casadocodigo.com.br/products/livro-cucumber-rspec-tdd-bdd) | Testes | E-book e Físico | :moneybag: | Português
+[TDD e BDD na prática](https://www.casadocodigo.com.br/products/livro-tdd-bdd-cucumber-rspec) | Testes | E-book e Físico | :moneybag: | Português
 [RSpec: Crie especificações executáveis em Ruby](https://www.casadocodigo.com.br/products/livro-rspec) | Testes | E-book e Físico | :moneybag: | Português
 [Eloquent Ruby](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104) | Ruby | E-book e Físico | :moneybag: | Inglês
 [Ruby Cookbook](http://www.amazon.com/Ruby-Cookbook-Lucas-Carlson/dp/1449373712) | Ruby | Físico | :moneybag: | Inglês
@@ -107,7 +106,6 @@ Blog | Principal(is) Autor(es) | Idioma
 [Blog Plataformatec](http://blog.plataformatec.com.br) | José Valim e Hugo Baraúna | Português
 [Marcos Brizeno](https://brizeno.wordpress.com) | Marcos Brizeno | Português
 [Akita on Rails](http://www.akitaonrails.com/) | Fabio Akita | Português
-[Campus Code](http://blog.campuscode.com.br) | Campus Code Team | Português
 [Ship It](http://shipit.resultadosdigitais.com.br) | Resultados Digitais Team | Português
 [Ricardo Silva](https://medium.com/@ricardo.b.silva13) | Ricardo Silva | Português
 [One Bit Code](http://onebitcode.com/) | Leonardo Scorza | Português
@@ -139,7 +137,6 @@ Título | Evento | Assuntos
 Título | Assunto | Idioma
 :-- | :-- | :--
 [Lucas Caton](https://www.youtube.com/playlist?list=PLz4HUyGp2Iyk4tANWisKz4JfVXF8JzivN) | Ruby on Rails | Português
-[Ruby Off Rails](http://rubyoffrails.com/) | Ruby | Inglês
 [Ruby Tapas](https://www.rubytapas.com/) | Ruby on Rails | Inglês
 [Go Rails](https://gorails.com) | Ruby on Rails | Inglês
 [Rails Casts](http://railscasts.com/) | Ruby on Rails | Inglês
@@ -186,7 +183,6 @@ Nome do Feed | Idioma
 ## :sound: Podcasts
 Nome do Podcast | Idioma
 :-- | :--:
-[Ruby Rogues](https://devchat.tv/ruby-rogues) | Inglês
 [Ruby5](https://ruby5.codeschool.com/) | Inglês
 [Ruby on Rails Podcast](http://5by5.tv/rubyonrails) | Inglês
 
