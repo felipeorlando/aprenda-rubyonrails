@@ -95,6 +95,7 @@ Título | Assunto | Formato | Preço | Idioma
 [Effective Ruby](https://www.amazon.com/gp/product/0133846970) | Ruby | E-book | :moneybag: | Inglês
 [99 Bottles of OOP](https://www.sandimetz.com/99bottles/) | Ruby | E-book | :moneybag: | Inglês
 [Learn Game Programming with Ruby](https://www.amazon.com/gp/product/1680500732) | Ruby | E-book | :moneybag: | Inglês
+[The Complete Guide to Rails Performance](https://www.railsspeed.com/) | Rails | E-book | :moneybag: | Inglês 
 
 [Ir para o índice](#Índice)
 
